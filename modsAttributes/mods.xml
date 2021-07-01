@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="https://www.w3.org/1999/xlink">
 <record>
 	<header>
 		<identifier>oai:oer.uni-due.de:duepublico_mods_00074526</identifier>
@@ -125,3 +126,4 @@
 			</mods:physicalDescription>
 		<mods:identifier type="citekey">duepublico_mods_00074526</mods:identifier><mods:identifier type="uri">https://duepublico2.uni-due.de/receive/duepublico_mods_00074526</mods:identifier></mods:mods></metadata>
 </record>
+</mods>
