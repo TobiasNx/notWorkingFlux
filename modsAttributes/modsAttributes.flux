@@ -1,6 +1,8 @@
-"mods.xml"
+default infile = FLUX_DIR + "mods.xml";
+
+
+infile
 | open-file
-| as-records
 | decode-xml
 | handle-generic-xml
 | encode-xml
