@@ -8,20 +8,23 @@ Auch Elemente ohne Attribute erhalten eine verschachtelte Struktur. [2]
 
 [1]
 IN:
-```
-<mods:name type="personal" xlink:type="simple">
-				<mods:displayForm>Armbruster, André</mods:displayForm>
-				<mods:role>
-					<mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
-				<mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm></mods:role>
-				<mods:nameIdentifier type="gnd">1081830107</mods:nameIdentifier>
-				<mods:namePart type="family">Armbruster</mods:namePart>
-				<mods:namePart type="given">André</mods:namePart>
-			</mods:name>
+```xml
+...
+				<mods:name type="personal" xlink:type="simple">
+					<mods:displayForm>Armbruster, André</mods:displayForm>
+					<mods:role>
+						<mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+						<mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+					</mods:role>
+					<mods:nameIdentifier type="gnd">1081830107</mods:nameIdentifier>
+					<mods:namePart type="family">Armbruster</mods:namePart>
+					<mods:namePart type="given">André</mods:namePart>
+				</mods:name>
+...
 ```
 
 OUT
-```
+```xml
 <mods>
 ...
 				<name>
@@ -68,6 +71,7 @@ IN:
 		<setSpec>ddc:300</setSpec>
 		<setSpec>doc-type:Sound</setSpec>
 	</header>
+	...
 ```
 
 OUT:
@@ -86,4 +90,5 @@ OUT:
 				<value>doc-type:Sound</value>
 			</setSpec>
 		</header>
+		...
 ```
