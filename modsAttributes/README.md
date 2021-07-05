@@ -1,8 +1,6 @@
 Wenn man mit Metafacture XML transformiert, dann werden die Attribute eines Elements zu Unterfeldern. Der eigentliche Feldinhalt wird zum Unterfeld `value`. Encode XML kann dies nicht rückgängig machen. [1]
 
-Zudem wir der mit Doppelpunkt vorgesetzte Namespace `mods:` zu einem übergeordneten Element transformiert. [1]
-
-Zusätzlich werden Attritbute mit Namespace ohne das Namespace transformiert (`xlink:type=` zu `type`) [1]
+Zusätzlich werden Attritbute und Elemente mit Namespace ohne das Namespace transformiert (Element: `mods:name` -> `name` und Attribute: `xlink:type=` zu `type`) [1]
 
 Auch Elemente ohne Attribute erhalten eine verschachtelte Struktur. [2]
 
@@ -10,6 +8,8 @@ Auch Elemente ohne Attribute erhalten eine verschachtelte Struktur. [2]
 IN:
 ```xml
 ...
+			<mods:mods ID="duepublico_mods_00074526">
+				...
 				<mods:name type="personal" xlink:type="simple">
 					<mods:displayForm>Armbruster, André</mods:displayForm>
 					<mods:role>
@@ -20,6 +20,8 @@ IN:
 					<mods:namePart type="family">Armbruster</mods:namePart>
 					<mods:namePart type="given">André</mods:namePart>
 				</mods:name>
+...
+			</mods:mods>
 ...
 ```
 
