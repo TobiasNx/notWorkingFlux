@@ -1,0 +1,18 @@
+{
+  "1" : {
+    "@type" : "Person",
+    "name" : "Katja Königstein-Lüdersdorff"
+  },
+  "2" : {
+    "@type" : "Person",
+    "name" : "Corinna Peters"
+  },
+  "3" : {
+    "@type" : "Person",
+    "name" : "Oleg Tjulenev"
+  },
+  "4" : {
+    "@type" : "Person",
+    "name" : "Claudia Vogeler"
+  }
+}

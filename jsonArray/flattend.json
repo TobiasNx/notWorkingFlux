@@ -1,0 +1,10 @@
+{
+  "author[].1.@type" : "Person",
+  "author[].1.name" : "Katja Königstein-Lüdersdorff",
+  "author[].2.@type" : "Person",
+  "author[].2.name" : "Corinna Peters",
+  "author[].3.@type" : "Person",
+  "author[].3.name" : "Oleg Tjulenev",
+  "author[].4.@type" : "Person",
+  "author[].4.name" : "Claudia Vogeler"
+}
