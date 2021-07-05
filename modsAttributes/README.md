@@ -64,7 +64,7 @@ OUT
 
 [2]
 IN:
-```
+```xml
 	<header>
 		<identifier>oai:oer.uni-due.de:duepublico_mods_00074526</identifier>
 		<datestamp>2021-07-01</datestamp>
@@ -75,7 +75,7 @@ IN:
 ```
 
 OUT:
-```
+```xml
 		<header>
 			<identifier>
 				<value>oai:oer.uni-due.de:duepublico_mods_00074526</value>
