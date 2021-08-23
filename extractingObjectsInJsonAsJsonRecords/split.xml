@@ -2,6 +2,11 @@
 <metamorph xmlns="http://www.culturegraph.org/metamorph" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	version="1">
 	<rules>
-		<data source="data[]" />
+		<data source="data[]" /> 
+		<!-- alternative habe ich data[].* versucht zu übernehmen. Oder die Struktur in Form einer Enity nachzubauen.
+		<entity name="[]" flushWith="record">
+				<data source="data[]" /> 
+		</entity>
+		-->
 	</rules>
 </metamorph>
