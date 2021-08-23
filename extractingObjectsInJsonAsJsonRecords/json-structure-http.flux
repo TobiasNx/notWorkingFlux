@@ -1,6 +1,3 @@
-default infile = FLUX_DIR + "test.json";
-
-
 "https://imoox.at/mooc/local/moochubs/classes/webservice.php"
 | open-http(accept="application/json")
 | as-lines //as-records und as-formeta-records kommen zum gleichen Ergebnis
@@ -11,6 +8,5 @@ default infile = FLUX_DIR + "test.json";
 | count-triples(countBy="PREDICATE")
 | sort-triples(By="SUBJECT")
 | template("${o}\t${s}")
-| write("stdout")
+| write(FLUX_DIR + "result.txt")
 ;
-
