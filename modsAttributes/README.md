@@ -1,3 +1,6 @@
+!!! Mit https://github.com/metafacture/metafacture-core/pull/383 ist das Problem erledigt.!!!!
+
+--------------------------------
 Wenn man mit Metafacture XML transformiert, dann werden die Attribute eines Elements zu Unterfeldern. Der eigentliche Feldinhalt wird zum Unterfeld `value`. Encode XML kann dies nicht rückgängig machen. [1]
 
 Zusätzlich werden Attritbute und Elemente mit Namespace ohne das Namespace transformiert (Element: `mods:name` -> `name` und Attribute: `xlink:type=` zu `type`) [1]
