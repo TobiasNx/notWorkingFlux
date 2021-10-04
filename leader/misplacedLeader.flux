@@ -6,5 +6,5 @@ open-file|
 decode-xml|
 handle-marcxml|
 morph(FLUX_DIR + "allNested.xml")|
-encode-json|
-write(FLUX_DIR + "marcOut.json");
+encode-marcxml|
+write(FLUX_DIR + "marcOut.xml");
