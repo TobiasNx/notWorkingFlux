@@ -1,0 +1,544 @@
+<marc:controlfield tag="leader">01004nam#a2200241#c#4500</marc:controlfield>
+<marc:controlfield tag="005">20210408110752.0</marc:controlfield>
+<marc:controlfield tag="007">tu</marc:controlfield>
+<marc:controlfield tag="008">961211|1987####xx############|||#|#####c</marc:controlfield>
+<marc:controlfield tag="003">DE-605</marc:controlfield>
+<marc:controlfield tag="001">990111178340206441</marc:controlfield>
+<marc:datafield tag="035" ind1=" " ind2=" ">
+	<marc:subfield code="a">(DE-605)BT000071273</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="040" ind1=" " ind2=" ">
+	<marc:subfield code="a">HBZ/NWBibOff</marc:subfield>
+	<marc:subfield code="b">ger</marc:subfield>
+	<marc:subfield code="d">6/NWBib</marc:subfield>
+	<marc:subfield code="e">rakwb</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="084" ind1=" " ind2=" ">
+	<marc:subfield code="a">Katholische Kirche. Diözesen</marc:subfield>
+	<marc:subfield code="0">https://nwbib.de/spatial#N36</marc:subfield>
+	<marc:subfield code="2">nwbib</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="084" ind1=" " ind2=" ">
+	<marc:subfield code="a">Kirchliches Leben</marc:subfield>
+	<marc:subfield code="0">https://nwbib.de/subjects#N611040</marc:subfield>
+	<marc:subfield code="2">nwbib</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="245" ind1="0" ind2="0">
+	<marc:subfield code="a">Papst Johannes Paul II. in Deutschland</marc:subfield>
+	<marc:subfield code="b">seine Begegnungen mit d. Diözesen Köln, Münster, Essen, München, Augsburg, Speyer; seine Wallfahrt nach Kevelaer; d. Seligsprechungen von Edith Stein u. Pater Rupert Mayer.</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="264" ind1=" " ind2="1">
+	<marc:subfield code="a">[Augsburg]</marc:subfield>
+	<marc:subfield code="b">Weltbild</marc:subfield>
+	<marc:subfield code="c">1987</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="300" ind1=" " ind2=" ">
+	<marc:subfield code="a">153 S. : überwiegend Ill. (z.T. farb.)</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="689" ind1="0" ind2="0">
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="D">p</marc:subfield>
+	<marc:subfield code="0">(DE-588)118558064</marc:subfield>
+	<marc:subfield code="0">(uri) https://portal.dnb.de/opac.htm?method=simpleSearch&amp;cqlMode=true&amp;query=idn=118558064</marc:subfield>
+	<marc:subfield code="0">(uri) http://viaf.org/viaf/sourceID/DNB|118558064</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="689" ind1="1" ind2="0">
+	<marc:subfield code="a">Wallfahrten</marc:subfield>
+	<marc:subfield code="a">Kevelaer</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="960" ind1="1" ind2=" ">
+	<marc:subfield code="n">NWBib</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="964" ind1="0" ind2="s">
+	<marc:subfield code="F">030</marc:subfield>
+	<marc:subfield code="A">a|1uc||||||37</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="964" ind1="0" ind2="s">
+	<marc:subfield code="F">050</marc:subfield>
+	<marc:subfield code="A">a|||||||||||||</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="964" ind1="0" ind2="s">
+	<marc:subfield code="F">051</marc:subfield>
+	<marc:subfield code="A">m|||||||</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="MBD" ind1=" " ind2=" ">
+	<marc:subfield code="M">49HBZ_NETWORK</marc:subfield>
+	<marc:subfield code="i">990111178340206441</marc:subfield>
+	<marc:subfield code="n">HBZ Network</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="MNG" ind1=" " ind2=" ">
+	<marc:subfield code="c">System</marc:subfield>
+	<marc:subfield code="f">ILS</marc:subfield>
+	<marc:subfield code="i">marc21</marc:subfield>
+	<marc:subfield code="k">01</marc:subfield>
+	<marc:subfield code="e">false</marc:subfield>
+	<marc:subfield code="d">2021-08-19 04:05:36 Europe/Berlin</marc:subfield>
+	<marc:subfield code="g">011117834-HBZ01</marc:subfield>
+	<marc:subfield code="j">60</marc:subfield>
+	<marc:subfield code="a">import</marc:subfield>
+	<marc:subfield code="b">2021-04-05 07:57:36 Europe/Berlin</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst, Heiliger</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Giovanni Paolo</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ioannes Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Wojtyła, Karol</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="4">nafr</marc:subfield>
+	<marc:subfield code="4">https://d-nb.info/standards/elementset/gnd#EarlierNameOfThePerson</marc:subfield>
+	<marc:subfield code="w">r</marc:subfield>
+	<marc:subfield code="i">Frueherer Name</marc:subfield>
+	<marc:subfield code="e">Frueherer Name</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Wojtyła, Karol Józef</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="4">navo</marc:subfield>
+	<marc:subfield code="4">https://d-nb.info/standards/elementset/gnd#FullerFormOfNameOfThePerson</marc:subfield>
+	<marc:subfield code="w">r</marc:subfield>
+	<marc:subfield code="i">Vollstaendiger Name</marc:subfield>
+	<marc:subfield code="e">Vollstaendiger Name</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ioannis Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ivan Pavao</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ivan Pavlo</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jan Pavel Druhý</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ján Pavol</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jan Paweł</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jan Paweł</marc:subfield>
+	<marc:subfield code="b">II</marc:subfield>
+	<marc:subfield code="c">Papież</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Janez Pavel</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jānis Pāvils</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Pāvests</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">János Pál</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Pápa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jean Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jean Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Pape</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Jean-Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Pape</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="9">v:RAMEAU</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Joannes Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paulus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Paus</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johano Paŭlo la Dua</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">John Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">John Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Pope</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Juan Pablo</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Juan Pablo</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Vojtyla, Karol</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Wojtyla, Carlo</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Vojtila, Karol</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Wojtyla, Karol</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Wojtyla, Karol</marc:subfield>
+	<marc:subfield code="c">Heiliger</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Heiliger</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Yuḥannā Būlus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Yuhạnnā Būlus</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Yuḥannā-Būlus at-Tānī, al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Yuhạnnā-Būlus at-Tanī, al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Yūhạnnā Būlus at-Tanī, al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Yūḥannā Būlus at-Tānī, al-Bābā</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ioann Pavel</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="9">v:Sowj. Enz.</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Ioannes Paulos</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papa</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johano Paŭlo</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Gioan-Phaolô</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II.</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II</marc:subfield>
+	<marc:subfield code="c">Papst</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Jawień, Andrzej</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="4">pseu</marc:subfield>
+	<marc:subfield code="4">https://d-nb.info/standards/elementset/gnd#pseudonym</marc:subfield>
+	<marc:subfield code="w">r</marc:subfield>
+	<marc:subfield code="i">Pseudonym</marc:subfield>
+	<marc:subfield code="e">Pseudonym</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Gruda, Stanisław A.</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="4">pseu</marc:subfield>
+	<marc:subfield code="4">https://d-nb.info/standards/elementset/gnd#pseudonym</marc:subfield>
+	<marc:subfield code="w">r</marc:subfield>
+	<marc:subfield code="i">Pseudonym</marc:subfield>
+	<marc:subfield code="e">Pseudonym</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="1" ind2=" ">
+	<marc:subfield code="a">Jasień, Piotr</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="4">pseu</marc:subfield>
+	<marc:subfield code="4">https://d-nb.info/standards/elementset/gnd#pseudonym</marc:subfield>
+	<marc:subfield code="w">r</marc:subfield>
+	<marc:subfield code="i">Pseudonym</marc:subfield>
+	<marc:subfield code="e">Pseudonym</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="9">L:fre</marc:subfield>
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II</marc:subfield>
+	<marc:subfield code="c">Pape</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="5">CH-GND</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GPN" ind1="0" ind2=" ">
+	<marc:subfield code="9">L:eng</marc:subfield>
+	<marc:subfield code="a">Johannes Paul</marc:subfield>
+	<marc:subfield code="b">II</marc:subfield>
+	<marc:subfield code="c">Pope</marc:subfield>
+	<marc:subfield code="d">1920-2005</marc:subfield>
+	<marc:subfield code="5">CH-GND</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">400</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="GSI" ind1="7" ind2=" ">
+	<marc:subfield code="a">118558064</marc:subfield>
+	<marc:subfield code="0">http://d-nb.info/gnd/118558064</marc:subfield>
+	<marc:subfield code="2">gnd</marc:subfield>
+	<marc:subfield code="A">GND</marc:subfield>
+	<marc:subfield code="B">GND-118558064</marc:subfield>
+	<marc:subfield code="C">024</marc:subfield>
+</marc:datafield>
+</marc:collection>
