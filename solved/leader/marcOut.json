@@ -1,1 +1,304 @@
-{"type":"Bibliographic","leader":"00000pam a2200000 c 4500","001":"1196308691","003":"DE-101","005":"20210312081326.0","007":"tu","008":"191003s2019    gw ||||| |||| 00||||ger","015  ":{"a":"20,A12","z":"19,N41","2":"dnb"},"0167 ":{"2":"DE-101","a":"1196308691"},"020  ":{"a":"9783447066204","c":"Broschur : circa EUR 39.80 (DE), circa EUR 41.00 (AT)","9":"978-3-447-06620-4"},"020  ":{"a":"3447066202","9":"3-447-06620-2"},"0243 ":{"a":"9783447066204"},"035  ":{"a":"(DE-599)DNB1196308691"},"035  ":{"a":"(OCoLC)1122747622"},"040  ":{"a":"1245","b":"ger","c":"DE-101","d":"1130","e":"rda"},"041  ":{"a":"ger"},"044  ":{"c":"XA-DE-HE"},"08204":{"8":"3\\u","a":"027.043","q":"DE-101","2":"23/ger"},"0837 ":{"8":"4\\p","a":"020","q":"DE-101","2":"23sdnb"},"085  ":{"8":"3\\u","b":"027"},"085  ":{"8":"3\\u","z":"2","s":"43"},"090  ":{"a":"b"},"1001 ":{"0":"(DE-588)132677687","0":"https://d-nb.info/gnd/132677687","0":"(DE-101)132677687","a":"Rösch, Hermann","d":"1954-","e":"Verfasser","4":"aut","2":"gnd"},"24510":{"a":"Bibliotheken und Informationsgesellschaft in Deutschland","b":"eine Einführung","c":"Hermann Rösch, Jürgen Seefeldt, Konrad Umlauf ; mitbegründet von Engelbert Plassmann"},"250  ":{"a":"3., neu konzipierte und aktualisierte Auflage","b":"/ unter Mitarbeit von Albert Bilo und Eric W. Steinhauer"},"259  ":{"a":"13"},"264 1":{"a":"Wiesbaden","b":"Harrassowitz Verlag","c":"2019"},"300  ":{"a":"XIII, 329 Seiten","c":"24 cm, 657 g"},"336  ":{"a":"Text","b":"txt","2":"rdacontent"},"337  ":{"a":"ohne Hilfsmittel zu benutzen","b":"n","2":"rdamedia"},"338  ":{"a":"Band","b":"nc","2":"rdacarrier"},"650 7":{"0":"(DE-588)4006439-6","0":"https://d-nb.info/gnd/4006439-6","0":"(DE-101)040064395","a":"Bibliothek","9":"rswk-swf","2":"gnd"},"650 7":{"0":"(DE-588)4114012-6","0":"https://d-nb.info/gnd/4114012-6","0":"(DE-101)041140125","a":"Informationsmanagement","9":"rswk-swf","2":"gnd"},"651 7":{"0":"(DE-588)4011882-4","0":"https://d-nb.info/gnd/4011882-4","0":"(DE-101)040118827","a":"Deutschland","9":"rswk-swf","2":"gnd"},"653  ":{"a":"(Produktform)Hardback"},"653  ":{"a":"(Zielgruppe)Fachpublikum/ Wissenschaft"},"653  ":{"a":"(Produktform (spezifisch))Sewn"},"653  ":{"a":"Bibliotheks- und Informationswissenschaft"},"653  ":{"a":"Buch- und Bibliothekswesen"},"653  ":{"a":"(VLB-WN)1559: Hardcover, Softcover / Geschichte/Kulturgeschichte"},"653  ":{"a":"Bibliothekswesen/Lehrbuch"},"653  ":{"a":"Bibliothek"},"68900":{"0":"(DE-588)4011882-4","0":"https://d-nb.info/gnd/4011882-4","0":"(DE-101)040118827","D":"g","a":"Deutschland"},"68901":{"0":"(DE-588)4006439-6","0":"https://d-nb.info/gnd/4006439-6","0":"(DE-101)040064395","D":"s","a":"Bibliothek"},"68902":{"0":"(DE-588)4114012-6","0":"https://d-nb.info/gnd/4114012-6","0":"(DE-101)041140125","D":"s","a":"Informationsmanagement"},"6890 ":{"5":"DE-101","5":"DE-101"},"7001 ":{"0":"(DE-588)12495636X","0":"https://d-nb.info/gnd/12495636X","0":"(DE-101)12495636X","a":"Seefeldt, Jürgen","d":"1953-","e":"Verfasser","4":"aut","2":"gnd"},"7001 ":{"0":"(DE-588)109873432","0":"https://d-nb.info/gnd/109873432","0":"(DE-101)109873432","a":"Umlauf, Konrad","d":"1952-","e":"Verfasser","4":"aut","2":"gnd"},"7001 ":{"0":"(DE-588)115873848","0":"https://d-nb.info/gnd/115873848","0":"(DE-101)115873848","a":"Plassmann, Engelbert","d":"1935-","e":"Begründer des Werks","4":"oth","2":"gnd"},"7001 ":{"8":"1\\p","0":"(DE-588)1059725363","0":"https://d-nb.info/gnd/1059725363","0":"(DE-101)1059725363","a":"Bilo, Albert","d":"1953-","e":"Verfasser","4":"aut","2":"gnd"},"7001 ":{"8":"2\\p","0":"(DE-588)129604062","0":"https://d-nb.info/gnd/129604062","0":"(DE-101)129604062","a":"Steinhauer, Eric W.","d":"1971-","e":"Verfasser","4":"aut","2":"gnd"},"7102 ":{"0":"(DE-588)1068107626","0":"https://d-nb.info/gnd/1068107626","0":"(DE-101)1068107626","a":"Otto Harrassowitz GmbH & Co. KG","e":"Verlag","4":"pbl","2":"gnd"},"77608":{"i":"Erscheint auch als","n":"Online-Ausgabe","a":"Rösch, Hermann, 1954-","t":"Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung","d":"Wiesbaden : Harrassowitz Verlag, 2019","h":"Online-Ressource, XIV, 330 Seiten, 46 Tabellen","w":"(DE-101)122802328X","b":"3., neu konzipierte und aktualisierte Auflage"},"850  ":{"a":"DE-101a","a":"DE-101b"},"85642":{"m":"B:DE-101","q":"application/pdf","u":"https://d-nb.info/1196308691/04","3":"Inhaltsverzeichnis"},"883  ":{"8":"1\\p","a":"cgwrk","d":"20210314","q":"DE-101","u":"https://d-nb.info/provenance/plan#cgwrk"},"883  ":{"8":"2\\p","a":"cgwrk","d":"20210314","q":"DE-101","u":"https://d-nb.info/provenance/plan#cgwrk"},"8832 ":{"8":"4\\p","a":"ie-sg","d":"20200311","q":"DE-101","u":"https://d-nb.info/provenance/plan#ie-sg"},"925r ":{"a":"ra"},"9261 ":{"a":"GL","o":"93","q":"Publisher","v":"1.2","x":"Bibliotheks- und Informationswissenschaften / Museumskunde"}}
+{
+	"type": "Bibliographic",
+	"leader": "00000pam a2200000 c 4500",
+	"001": "1196308691",
+	"003": "DE-101",
+	"005": "20210312081326.0",
+	"007": "tu",
+	"008": "191003s2019    gw ||||| |||| 00||||ger",
+	"015  ": {
+		"a": "20,A12",
+		"z": "19,N41",
+		"2": "dnb"
+	},
+	"0167 ": {
+		"2": "DE-101",
+		"a": "1196308691"
+	},
+	"020  ": {
+		"a": "9783447066204",
+		"c": "Broschur : circa EUR 39.80 (DE), circa EUR 41.00 (AT)",
+		"9": "978-3-447-06620-4"
+	},
+	"020  ": {
+		"a": "3447066202",
+		"9": "3-447-06620-2"
+	},
+	"0243 ": {
+		"a": "9783447066204"
+	},
+	"035  ": {
+		"a": "(DE-599)DNB1196308691"
+	},
+	"035  ": {
+		"a": "(OCoLC)1122747622"
+	},
+	"040  ": {
+		"a": "1245",
+		"b": "ger",
+		"c": "DE-101",
+		"d": "1130",
+		"e": "rda"
+	},
+	"041  ": {
+		"a": "ger"
+	},
+	"044  ": {
+		"c": "XA-DE-HE"
+	},
+	"08204": {
+		"8": "3\\u",
+		"a": "027.043",
+		"q": "DE-101",
+		"2": "23/ger"
+	},
+	"0837 ": {
+		"8": "4\\p",
+		"a": "020",
+		"q": "DE-101",
+		"2": "23sdnb"
+	},
+	"085  ": {
+		"8": "3\\u",
+		"b": "027"
+	},
+	"085  ": {
+		"8": "3\\u",
+		"z": "2",
+		"s": "43"
+	},
+	"090  ": {
+		"a": "b"
+	},
+	"1001 ": {
+		"0": "(DE-588)132677687",
+		"0": "https://d-nb.info/gnd/132677687",
+		"0": "(DE-101)132677687",
+		"a": "Rösch, Hermann",
+		"d": "1954-",
+		"e": "Verfasser",
+		"4": "aut",
+		"2": "gnd"
+	},
+	"24510": {
+		"a": "Bibliotheken und Informationsgesellschaft in Deutschland",
+		"b": "eine Einführung",
+		"c": "Hermann Rösch, Jürgen Seefeldt, Konrad Umlauf ; mitbegründet von Engelbert Plassmann"
+	},
+	"250  ": {
+		"a": "3., neu konzipierte und aktualisierte Auflage",
+		"b": "/ unter Mitarbeit von Albert Bilo und Eric W. Steinhauer"
+	},
+	"259  ": {
+		"a": "13"
+	},
+	"264 1": {
+		"a": "Wiesbaden",
+		"b": "Harrassowitz Verlag",
+		"c": "2019"
+	},
+	"300  ": {
+		"a": "XIII, 329 Seiten",
+		"c": "24 cm, 657 g"
+	},
+	"336  ": {
+		"a": "Text",
+		"b": "txt",
+		"2": "rdacontent"
+	},
+	"337  ": {
+		"a": "ohne Hilfsmittel zu benutzen",
+		"b": "n",
+		"2": "rdamedia"
+	},
+	"338  ": {
+		"a": "Band",
+		"b": "nc",
+		"2": "rdacarrier"
+	},
+	"650 7": {
+		"0": "(DE-588)4006439-6",
+		"0": "https://d-nb.info/gnd/4006439-6",
+		"0": "(DE-101)040064395",
+		"a": "Bibliothek",
+		"9": "rswk-swf",
+		"2": "gnd"
+	},
+	"650 7": {
+		"0": "(DE-588)4114012-6",
+		"0": "https://d-nb.info/gnd/4114012-6",
+		"0": "(DE-101)041140125",
+		"a": "Informationsmanagement",
+		"9": "rswk-swf",
+		"2": "gnd"
+	},
+	"651 7": {
+		"0": "(DE-588)4011882-4",
+		"0": "https://d-nb.info/gnd/4011882-4",
+		"0": "(DE-101)040118827",
+		"a": "Deutschland",
+		"9": "rswk-swf",
+		"2": "gnd"
+	},
+	"653  ": {
+		"a": "(Produktform)Hardback"
+	},
+	"653  ": {
+		"a": "(Zielgruppe)Fachpublikum/ Wissenschaft"
+	},
+	"653  ": {
+		"a": "(Produktform (spezifisch))Sewn"
+	},
+	"653  ": {
+		"a": "Bibliotheks- und Informationswissenschaft"
+	},
+	"653  ": {
+		"a": "Buch- und Bibliothekswesen"
+	},
+	"653  ": {
+		"a": "(VLB-WN)1559: Hardcover, Softcover / Geschichte/Kulturgeschichte"
+	},
+	"653  ": {
+		"a": "Bibliothekswesen/Lehrbuch"
+	},
+	"653  ": {
+		"a": "Bibliothek"
+	},
+	"68900": {
+		"0": "(DE-588)4011882-4",
+		"0": "https://d-nb.info/gnd/4011882-4",
+		"0": "(DE-101)040118827",
+		"D": "g",
+		"a": "Deutschland"
+	},
+	"68901": {
+		"0": "(DE-588)4006439-6",
+		"0": "https://d-nb.info/gnd/4006439-6",
+		"0": "(DE-101)040064395",
+		"D": "s",
+		"a": "Bibliothek"
+	},
+	"68902": {
+		"0": "(DE-588)4114012-6",
+		"0": "https://d-nb.info/gnd/4114012-6",
+		"0": "(DE-101)041140125",
+		"D": "s",
+		"a": "Informationsmanagement"
+	},
+	"6890 ": {
+		"5": "DE-101",
+		"5": "DE-101"
+	},
+	"7001 ": {
+		"0": "(DE-588)12495636X",
+		"0": "https://d-nb.info/gnd/12495636X",
+		"0": "(DE-101)12495636X",
+		"a": "Seefeldt, Jürgen",
+		"d": "1953-",
+		"e": "Verfasser",
+		"4": "aut",
+		"2": "gnd"
+	},
+	"7001 ": {
+		"0": "(DE-588)109873432",
+		"0": "https://d-nb.info/gnd/109873432",
+		"0": "(DE-101)109873432",
+		"a": "Umlauf, Konrad",
+		"d": "1952-",
+		"e": "Verfasser",
+		"4": "aut",
+		"2": "gnd"
+	},
+	"7001 ": {
+		"0": "(DE-588)115873848",
+		"0": "https://d-nb.info/gnd/115873848",
+		"0": "(DE-101)115873848",
+		"a": "Plassmann, Engelbert",
+		"d": "1935-",
+		"e": "Begründer des Werks",
+		"4": "oth",
+		"2": "gnd"
+	},
+	"7001 ": {
+		"8": "1\\p",
+		"0": "(DE-588)1059725363",
+		"0": "https://d-nb.info/gnd/1059725363",
+		"0": "(DE-101)1059725363",
+		"a": "Bilo, Albert",
+		"d": "1953-",
+		"e": "Verfasser",
+		"4": "aut",
+		"2": "gnd"
+	},
+	"7001 ": {
+		"8": "2\\p",
+		"0": "(DE-588)129604062",
+		"0": "https://d-nb.info/gnd/129604062",
+		"0": "(DE-101)129604062",
+		"a": "Steinhauer, Eric W.",
+		"d": "1971-",
+		"e": "Verfasser",
+		"4": "aut",
+		"2": "gnd"
+	},
+	"7102 ": {
+		"0": "(DE-588)1068107626",
+		"0": "https://d-nb.info/gnd/1068107626",
+		"0": "(DE-101)1068107626",
+		"a": "Otto Harrassowitz GmbH & Co. KG",
+		"e": "Verlag",
+		"4": "pbl",
+		"2": "gnd"
+	},
+	"77608": {
+		"i": "Erscheint auch als",
+		"n": "Online-Ausgabe",
+		"a": "Rösch, Hermann, 1954-",
+		"t": "Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung",
+		"d": "Wiesbaden : Harrassowitz Verlag, 2019",
+		"h": "Online-Ressource, XIV, 330 Seiten, 46 Tabellen",
+		"w": "(DE-101)122802328X",
+		"b": "3., neu konzipierte und aktualisierte Auflage"
+	},
+	"850  ": {
+		"a": "DE-101a",
+		"a": "DE-101b"
+	},
+	"85642": {
+		"m": "B:DE-101",
+		"q": "application/pdf",
+		"u": "https://d-nb.info/1196308691/04",
+		"3": "Inhaltsverzeichnis"
+	},
+	"883  ": {
+		"8": "1\\p",
+		"a": "cgwrk",
+		"d": "20210314",
+		"q": "DE-101",
+		"u": "https://d-nb.info/provenance/plan#cgwrk"
+	},
+	"883  ": {
+		"8": "2\\p",
+		"a": "cgwrk",
+		"d": "20210314",
+		"q": "DE-101",
+		"u": "https://d-nb.info/provenance/plan#cgwrk"
+	},
+	"8832 ": {
+		"8": "4\\p",
+		"a": "ie-sg",
+		"d": "20200311",
+		"q": "DE-101",
+		"u": "https://d-nb.info/provenance/plan#ie-sg"
+	},
+	"925r ": {
+		"a": "ra"
+	},
+	"9261 ": {
+		"a": "GL",
+		"o": "93",
+		"q": "Publisher",
+		"v": "1.2",
+		"x": "Bibliotheks- und Informationswissenschaften / Museumskunde"
+	}
+}
