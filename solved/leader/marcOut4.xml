@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:record type="Bibliographic">
+		<marc:leader>00000pam a2200000 c 4500</marc:leader>
+		<marc:controlfield tag="001">1196308691</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20210312081326.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">191003s2019    gw ||||| |||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">20,A12</marc:subfield>
+			<marc:subfield code="z">19,N41</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">1196308691</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">9783447066204</marc:subfield>
+			<marc:subfield code="c">Broschur : circa EUR 39.80 (DE), circa EUR 41.00 (AT)</marc:subfield>
+			<marc:subfield code="9">978-3-447-06620-4</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3447066202</marc:subfield>
+			<marc:subfield code="9">3-447-06620-2</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="024" ind1="3" ind2=" ">
+			<marc:subfield code="a">9783447066204</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1196308691</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1122747622</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1245</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">1130</marc:subfield>
+			<marc:subfield code="e">rda</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE-HE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="082" ind1="0" ind2="4">
+			<marc:subfield code="8">3\u</marc:subfield>
+			<marc:subfield code="a">027.043</marc:subfield>
+			<marc:subfield code="q">DE-101</marc:subfield>
+			<marc:subfield code="2">23/ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="083" ind1="7" ind2=" ">
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="a">020</marc:subfield>
+			<marc:subfield code="q">DE-101</marc:subfield>
+			<marc:subfield code="2">23sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="085" ind1=" " ind2=" ">
+			<marc:subfield code="8">3\u</marc:subfield>
+			<marc:subfield code="b">027</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="085" ind1=" " ind2=" ">
+			<marc:subfield code="8">3\u</marc:subfield>
+			<marc:subfield code="z">2</marc:subfield>
+			<marc:subfield code="s">43</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="100" ind1="1" ind2=" ">
+			<marc:subfield code="0">(DE-588)132677687</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/132677687</marc:subfield>
+			<marc:subfield code="0">(DE-101)132677687</marc:subfield>
+			<marc:subfield code="a">Rösch, Hermann</marc:subfield>
+			<marc:subfield code="d">1954-</marc:subfield>
+			<marc:subfield code="e">Verfasser</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Bibliotheken und Informationsgesellschaft in Deutschland</marc:subfield>
+			<marc:subfield code="b">eine Einführung</marc:subfield>
+			<marc:subfield code="c">Hermann Rösch, Jürgen Seefeldt, Konrad Umlauf ; mitbegründet von Engelbert Plassmann</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="250" ind1=" " ind2=" ">
+			<marc:subfield code="a">3., neu konzipierte und aktualisierte Auflage</marc:subfield>
+			<marc:subfield code="b">/ unter Mitarbeit von Albert Bilo und Eric W. Steinhauer</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="259" ind1=" " ind2=" ">
+			<marc:subfield code="a">13</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="264" ind1=" " ind2="1">
+			<marc:subfield code="a">Wiesbaden</marc:subfield>
+			<marc:subfield code="b">Harrassowitz Verlag</marc:subfield>
+			<marc:subfield code="c">2019</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">XIII, 329 Seiten</marc:subfield>
+			<marc:subfield code="c">24 cm, 657 g</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="336" ind1=" " ind2=" ">
+			<marc:subfield code="a">Text</marc:subfield>
+			<marc:subfield code="b">txt</marc:subfield>
+			<marc:subfield code="2">rdacontent</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="337" ind1=" " ind2=" ">
+			<marc:subfield code="a">ohne Hilfsmittel zu benutzen</marc:subfield>
+			<marc:subfield code="b">n</marc:subfield>
+			<marc:subfield code="2">rdamedia</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="338" ind1=" " ind2=" ">
+			<marc:subfield code="a">Band</marc:subfield>
+			<marc:subfield code="b">nc</marc:subfield>
+			<marc:subfield code="2">rdacarrier</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588)4006439-6</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4006439-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)040064395</marc:subfield>
+			<marc:subfield code="a">Bibliothek</marc:subfield>
+			<marc:subfield code="9">rswk-swf</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588)4114012-6</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4114012-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)041140125</marc:subfield>
+			<marc:subfield code="a">Informationsmanagement</marc:subfield>
+			<marc:subfield code="9">rswk-swf</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="651" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4011882-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+			<marc:subfield code="9">rswk-swf</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">(Produktform)Hardback</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">(Zielgruppe)Fachpublikum/ Wissenschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">(Produktform (spezifisch))Sewn</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">Bibliotheks- und Informationswissenschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">Buch- und Bibliothekswesen</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">(VLB-WN)1559: Hardcover, Softcover / Geschichte/Kulturgeschichte</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">Bibliothekswesen/Lehrbuch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="653" ind1=" " ind2=" ">
+			<marc:subfield code="a">Bibliothek</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4011882-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="0">(DE-588)4006439-6</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4006439-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)040064395</marc:subfield>
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="a">Bibliothek</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="0">(DE-588)4114012-6</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/4114012-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)041140125</marc:subfield>
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="a">Informationsmanagement</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="0">(DE-588)12495636X</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/12495636X</marc:subfield>
+			<marc:subfield code="0">(DE-101)12495636X</marc:subfield>
+			<marc:subfield code="a">Seefeldt, Jürgen</marc:subfield>
+			<marc:subfield code="d">1953-</marc:subfield>
+			<marc:subfield code="e">Verfasser</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="0">(DE-588)109873432</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/109873432</marc:subfield>
+			<marc:subfield code="0">(DE-101)109873432</marc:subfield>
+			<marc:subfield code="a">Umlauf, Konrad</marc:subfield>
+			<marc:subfield code="d">1952-</marc:subfield>
+			<marc:subfield code="e">Verfasser</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="0">(DE-588)115873848</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/115873848</marc:subfield>
+			<marc:subfield code="0">(DE-101)115873848</marc:subfield>
+			<marc:subfield code="a">Plassmann, Engelbert</marc:subfield>
+			<marc:subfield code="d">1935-</marc:subfield>
+			<marc:subfield code="e">Begründer des Werks</marc:subfield>
+			<marc:subfield code="4">oth</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="0">(DE-588)1059725363</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/1059725363</marc:subfield>
+			<marc:subfield code="0">(DE-101)1059725363</marc:subfield>
+			<marc:subfield code="a">Bilo, Albert</marc:subfield>
+			<marc:subfield code="d">1953-</marc:subfield>
+			<marc:subfield code="e">Verfasser</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="0">(DE-588)129604062</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/129604062</marc:subfield>
+			<marc:subfield code="0">(DE-101)129604062</marc:subfield>
+			<marc:subfield code="a">Steinhauer, Eric W.</marc:subfield>
+			<marc:subfield code="d">1971-</marc:subfield>
+			<marc:subfield code="e">Verfasser</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="710" ind1="2" ind2=" ">
+			<marc:subfield code="0">(DE-588)1068107626</marc:subfield>
+			<marc:subfield code="0">https://d-nb.info/gnd/1068107626</marc:subfield>
+			<marc:subfield code="0">(DE-101)1068107626</marc:subfield>
+			<marc:subfield code="a">Otto Harrassowitz GmbH &amp; Co. KG</marc:subfield>
+			<marc:subfield code="e">Verlag</marc:subfield>
+			<marc:subfield code="4">pbl</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="776" ind1="0" ind2="8">
+			<marc:subfield code="i">Erscheint auch als</marc:subfield>
+			<marc:subfield code="n">Online-Ausgabe</marc:subfield>
+			<marc:subfield code="a">Rösch, Hermann, 1954-</marc:subfield>
+			<marc:subfield code="t">Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung</marc:subfield>
+			<marc:subfield code="d">Wiesbaden : Harrassowitz Verlag, 2019</marc:subfield>
+			<marc:subfield code="h">Online-Ressource, XIV, 330 Seiten, 46 Tabellen</marc:subfield>
+			<marc:subfield code="w">(DE-101)122802328X</marc:subfield>
+			<marc:subfield code="b">3., neu konzipierte und aktualisierte Auflage</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="850" ind1=" " ind2=" ">
+			<marc:subfield code="a">DE-101a</marc:subfield>
+			<marc:subfield code="a">DE-101b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="856" ind1="4" ind2="2">
+			<marc:subfield code="m">B:DE-101</marc:subfield>
+			<marc:subfield code="q">application/pdf</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/1196308691/04</marc:subfield>
+			<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="883" ind1=" " ind2=" ">
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="a">cgwrk</marc:subfield>
+			<marc:subfield code="d">20210314</marc:subfield>
+			<marc:subfield code="q">DE-101</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgwrk</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="883" ind1=" " ind2=" ">
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="a">cgwrk</marc:subfield>
+			<marc:subfield code="d">20210314</marc:subfield>
+			<marc:subfield code="q">DE-101</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgwrk</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="883" ind1="2" ind2=" ">
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="a">ie-sg</marc:subfield>
+			<marc:subfield code="d">20200311</marc:subfield>
+			<marc:subfield code="q">DE-101</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#ie-sg</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="926" ind1="1" ind2=" ">
+			<marc:subfield code="a">GL</marc:subfield>
+			<marc:subfield code="o">93</marc:subfield>
+			<marc:subfield code="q">Publisher</marc:subfield>
+			<marc:subfield code="v">1.2</marc:subfield>
+			<marc:subfield code="x">Bibliotheks- und Informationswissenschaften / Museumskunde</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+</marc:collection>

@@ -7,4 +7,4 @@ infile
 | decode-json
 | morph(FLUX_DIR + "allFlattend.xml")
 | encode-json(prettyPrinting="true")
-| write(FLUX_DIR + "flattend.json");
+| write(FLUX_DIR + "flattendNeu.json");

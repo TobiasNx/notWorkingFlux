@@ -1,4 +1,4 @@
-default infile = FLUX_DIR + "testArray2hirachies.json";
+default infile = FLUX_DIR + "testArray.json";
 
 
 infile
@@ -7,4 +7,4 @@ infile
 | decode-json
 | morph(FLUX_DIR + "allNested.xml")
 | encode-json(prettyPrinting="true")
-| write(FLUX_DIR + "nestedHirachy.json");
+| write(FLUX_DIR + "nestedHirachyNeu.json");

@@ -4,7 +4,7 @@ default infile = FLUX_DIR + "1196308691_marcxml.mrcx";
 infile|
 open-file|
 decode-xml|
-handle-marcxml|
+handle-generic-xml|
 morph(FLUX_DIR + "allNested.xml")|
-encode-marcxml|
-write(FLUX_DIR + "marcOut.xml");
+encode-xml|
+write(FLUX_DIR + "marcOut6.xml");

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+
+	<record>
+		<type>Bibliographic</type>
+		<leader>00000pam a2200000 c 4500</leader>
+		<controlfield>1196308691
+			<tag>001</tag></controlfield>
+		<controlfield>DE-101
+			<tag>003</tag></controlfield>
+		<controlfield>20210312081326.0
+			<tag>005</tag></controlfield>
+		<controlfield>tu
+			<tag>007</tag></controlfield>
+		<controlfield>191003s2019    gw ||||| |||| 00||||ger  
+			<tag>008</tag></controlfield>
+		<datafield>
+			<tag>015</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>20,A12
+				<code>a</code></subfield>
+			<subfield>19,N41
+				<code>z</code></subfield>
+			<subfield>dnb
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>016</tag>
+			<ind1>7</ind1>
+			<ind2> </ind2>
+			<subfield>DE-101
+				<code>2</code></subfield>
+			<subfield>1196308691
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>020</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>9783447066204
+				<code>a</code></subfield>
+			<subfield>Broschur : circa EUR 39.80 (DE), circa EUR 41.00 (AT)
+				<code>c</code></subfield>
+			<subfield>978-3-447-06620-4
+				<code>9</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>020</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>3447066202
+				<code>a</code></subfield>
+			<subfield>3-447-06620-2
+				<code>9</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>024</tag>
+			<ind1>3</ind1>
+			<ind2> </ind2>
+			<subfield>9783447066204
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>035</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(DE-599)DNB1196308691
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>035</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(OCoLC)1122747622
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>040</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>1245
+				<code>a</code></subfield>
+			<subfield>ger
+				<code>b</code></subfield>
+			<subfield>DE-101
+				<code>c</code></subfield>
+			<subfield>1130
+				<code>d</code></subfield>
+			<subfield>rda
+				<code>e</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>041</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>ger
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>044</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>XA-DE-HE
+				<code>c</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>082</tag>
+			<ind1>0</ind1>
+			<ind2>4</ind2>
+			<subfield>3\u
+				<code>8</code></subfield>
+			<subfield>027.043
+				<code>a</code></subfield>
+			<subfield>DE-101
+				<code>q</code></subfield>
+			<subfield>23/ger
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>083</tag>
+			<ind1>7</ind1>
+			<ind2> </ind2>
+			<subfield>4\p
+				<code>8</code></subfield>
+			<subfield>020
+				<code>a</code></subfield>
+			<subfield>DE-101
+				<code>q</code></subfield>
+			<subfield>23sdnb
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>085</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>3\u
+				<code>8</code></subfield>
+			<subfield>027
+				<code>b</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>085</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>3\u
+				<code>8</code></subfield>
+			<subfield>2
+				<code>z</code></subfield>
+			<subfield>43
+				<code>s</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>090</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>b
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>100</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>(DE-588)132677687
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/132677687
+				<code>0</code></subfield>
+			<subfield>(DE-101)132677687
+				<code>0</code></subfield>
+			<subfield>Rösch, Hermann
+				<code>a</code></subfield>
+			<subfield>1954-
+				<code>d</code></subfield>
+			<subfield>Verfasser
+				<code>e</code></subfield>
+			<subfield>aut
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>245</tag>
+			<ind1>1</ind1>
+			<ind2>0</ind2>
+			<subfield>Bibliotheken und Informationsgesellschaft in Deutschland
+				<code>a</code></subfield>
+			<subfield>eine Einführung
+				<code>b</code></subfield>
+			<subfield>Hermann Rösch, Jürgen Seefeldt, Konrad Umlauf ; mitbegründet von Engelbert Plassmann
+				<code>c</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>250</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>3., neu konzipierte und aktualisierte Auflage
+				<code>a</code></subfield>
+			<subfield> / unter Mitarbeit von Albert Bilo und Eric W. Steinhauer
+				<code>b</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>259</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>13
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>264</tag>
+			<ind1> </ind1>
+			<ind2>1</ind2>
+			<subfield>Wiesbaden
+				<code>a</code></subfield>
+			<subfield>Harrassowitz Verlag
+				<code>b</code></subfield>
+			<subfield>2019
+				<code>c</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>300</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>XIII, 329 Seiten
+				<code>a</code></subfield>
+			<subfield>24 cm, 657 g
+				<code>c</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>336</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Text
+				<code>a</code></subfield>
+			<subfield>txt
+				<code>b</code></subfield>
+			<subfield>rdacontent
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>337</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>ohne Hilfsmittel zu benutzen
+				<code>a</code></subfield>
+			<subfield>n
+				<code>b</code></subfield>
+			<subfield>rdamedia
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>338</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Band
+				<code>a</code></subfield>
+			<subfield>nc
+				<code>b</code></subfield>
+			<subfield>rdacarrier
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>650</tag>
+			<ind1> </ind1>
+			<ind2>7</ind2>
+			<subfield>(DE-588)4006439-6
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4006439-6
+				<code>0</code></subfield>
+			<subfield>(DE-101)040064395
+				<code>0</code></subfield>
+			<subfield>Bibliothek
+				<code>a</code></subfield>
+			<subfield>rswk-swf
+				<code>9</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>650</tag>
+			<ind1> </ind1>
+			<ind2>7</ind2>
+			<subfield>(DE-588)4114012-6
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4114012-6
+				<code>0</code></subfield>
+			<subfield>(DE-101)041140125
+				<code>0</code></subfield>
+			<subfield>Informationsmanagement
+				<code>a</code></subfield>
+			<subfield>rswk-swf
+				<code>9</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>651</tag>
+			<ind1> </ind1>
+			<ind2>7</ind2>
+			<subfield>(DE-588)4011882-4
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4011882-4
+				<code>0</code></subfield>
+			<subfield>(DE-101)040118827
+				<code>0</code></subfield>
+			<subfield>Deutschland
+				<code>a</code></subfield>
+			<subfield>rswk-swf
+				<code>9</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(Produktform)Hardback
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(Zielgruppe)Fachpublikum/ Wissenschaft
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(Produktform (spezifisch))Sewn
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Bibliotheks- und Informationswissenschaft
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Buch- und Bibliothekswesen
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>(VLB-WN)1559: Hardcover, Softcover / Geschichte/Kulturgeschichte
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Bibliothekswesen/Lehrbuch
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>653</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>Bibliothek
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>689</tag>
+			<ind1>0</ind1>
+			<ind2>0</ind2>
+			<subfield>(DE-588)4011882-4
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4011882-4
+				<code>0</code></subfield>
+			<subfield>(DE-101)040118827
+				<code>0</code></subfield>
+			<subfield>g
+				<code>D</code></subfield>
+			<subfield>Deutschland
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>689</tag>
+			<ind1>0</ind1>
+			<ind2>1</ind2>
+			<subfield>(DE-588)4006439-6
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4006439-6
+				<code>0</code></subfield>
+			<subfield>(DE-101)040064395
+				<code>0</code></subfield>
+			<subfield>s
+				<code>D</code></subfield>
+			<subfield>Bibliothek
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>689</tag>
+			<ind1>0</ind1>
+			<ind2>2</ind2>
+			<subfield>(DE-588)4114012-6
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/4114012-6
+				<code>0</code></subfield>
+			<subfield>(DE-101)041140125
+				<code>0</code></subfield>
+			<subfield>s
+				<code>D</code></subfield>
+			<subfield>Informationsmanagement
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>689</tag>
+			<ind1>0</ind1>
+			<ind2> </ind2>
+			<subfield>DE-101
+				<code>5</code></subfield>
+			<subfield>DE-101
+				<code>5</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>700</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>(DE-588)12495636X
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/12495636X
+				<code>0</code></subfield>
+			<subfield>(DE-101)12495636X
+				<code>0</code></subfield>
+			<subfield>Seefeldt, Jürgen
+				<code>a</code></subfield>
+			<subfield>1953-
+				<code>d</code></subfield>
+			<subfield>Verfasser
+				<code>e</code></subfield>
+			<subfield>aut
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>700</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>(DE-588)109873432
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/109873432
+				<code>0</code></subfield>
+			<subfield>(DE-101)109873432
+				<code>0</code></subfield>
+			<subfield>Umlauf, Konrad
+				<code>a</code></subfield>
+			<subfield>1952-
+				<code>d</code></subfield>
+			<subfield>Verfasser
+				<code>e</code></subfield>
+			<subfield>aut
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>700</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>(DE-588)115873848
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/115873848
+				<code>0</code></subfield>
+			<subfield>(DE-101)115873848
+				<code>0</code></subfield>
+			<subfield>Plassmann, Engelbert
+				<code>a</code></subfield>
+			<subfield>1935-
+				<code>d</code></subfield>
+			<subfield>Begründer des Werks
+				<code>e</code></subfield>
+			<subfield>oth
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>700</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>1\p
+				<code>8</code></subfield>
+			<subfield>(DE-588)1059725363
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/1059725363
+				<code>0</code></subfield>
+			<subfield>(DE-101)1059725363
+				<code>0</code></subfield>
+			<subfield>Bilo, Albert
+				<code>a</code></subfield>
+			<subfield>1953-
+				<code>d</code></subfield>
+			<subfield>Verfasser
+				<code>e</code></subfield>
+			<subfield>aut
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>700</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>2\p
+				<code>8</code></subfield>
+			<subfield>(DE-588)129604062
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/129604062
+				<code>0</code></subfield>
+			<subfield>(DE-101)129604062
+				<code>0</code></subfield>
+			<subfield>Steinhauer, Eric W.
+				<code>a</code></subfield>
+			<subfield>1971-
+				<code>d</code></subfield>
+			<subfield>Verfasser
+				<code>e</code></subfield>
+			<subfield>aut
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>710</tag>
+			<ind1>2</ind1>
+			<ind2> </ind2>
+			<subfield>(DE-588)1068107626
+				<code>0</code></subfield>
+			<subfield>https://d-nb.info/gnd/1068107626
+				<code>0</code></subfield>
+			<subfield>(DE-101)1068107626
+				<code>0</code></subfield>
+			<subfield>Otto Harrassowitz GmbH &amp; Co. KG
+				<code>a</code></subfield>
+			<subfield>Verlag
+				<code>e</code></subfield>
+			<subfield>pbl
+				<code>4</code></subfield>
+			<subfield>gnd
+				<code>2</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>776</tag>
+			<ind1>0</ind1>
+			<ind2>8</ind2>
+			<subfield>Erscheint auch als
+				<code>i</code></subfield>
+			<subfield>Online-Ausgabe
+				<code>n</code></subfield>
+			<subfield>Rösch, Hermann, 1954-
+				<code>a</code></subfield>
+			<subfield>Bibliotheken und Informationsgesellschaft in Deutschland. Eine Einführung
+				<code>t</code></subfield>
+			<subfield>Wiesbaden : Harrassowitz Verlag, 2019
+				<code>d</code></subfield>
+			<subfield>Online-Ressource, XIV, 330 Seiten, 46 Tabellen
+				<code>h</code></subfield>
+			<subfield>(DE-101)122802328X
+				<code>w</code></subfield>
+			<subfield>3., neu konzipierte und aktualisierte Auflage
+				<code>b</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>850</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>DE-101a
+				<code>a</code></subfield>
+			<subfield>DE-101b
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>856</tag>
+			<ind1>4</ind1>
+			<ind2>2</ind2>
+			<subfield>B:DE-101
+				<code>m</code></subfield>
+			<subfield>application/pdf
+				<code>q</code></subfield>
+			<subfield>https://d-nb.info/1196308691/04
+				<code>u</code></subfield>
+			<subfield>Inhaltsverzeichnis
+				<code>3</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>883</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>1\p
+				<code>8</code></subfield>
+			<subfield>cgwrk
+				<code>a</code></subfield>
+			<subfield>20210314
+				<code>d</code></subfield>
+			<subfield>DE-101
+				<code>q</code></subfield>
+			<subfield>https://d-nb.info/provenance/plan#cgwrk
+				<code>u</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>883</tag>
+			<ind1> </ind1>
+			<ind2> </ind2>
+			<subfield>2\p
+				<code>8</code></subfield>
+			<subfield>cgwrk
+				<code>a</code></subfield>
+			<subfield>20210314
+				<code>d</code></subfield>
+			<subfield>DE-101
+				<code>q</code></subfield>
+			<subfield>https://d-nb.info/provenance/plan#cgwrk
+				<code>u</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>883</tag>
+			<ind1>2</ind1>
+			<ind2> </ind2>
+			<subfield>4\p
+				<code>8</code></subfield>
+			<subfield>ie-sg
+				<code>a</code></subfield>
+			<subfield>20200311
+				<code>d</code></subfield>
+			<subfield>DE-101
+				<code>q</code></subfield>
+			<subfield>https://d-nb.info/provenance/plan#ie-sg
+				<code>u</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>925</tag>
+			<ind1>r</ind1>
+			<ind2> </ind2>
+			<subfield>ra
+				<code>a</code></subfield>
+		</datafield>
+		<datafield>
+			<tag>926</tag>
+			<ind1>1</ind1>
+			<ind2> </ind2>
+			<subfield>GL
+				<code>a</code></subfield>
+			<subfield>93
+				<code>o</code></subfield>
+			<subfield>Publisher
+				<code>q</code></subfield>
+			<subfield>1.2
+				<code>v</code></subfield>
+			<subfield>Bibliotheks- und Informationswissenschaften / Museumskunde
+				<code>x</code></subfield>
+		</datafield>
+	</record>
+
+</records>

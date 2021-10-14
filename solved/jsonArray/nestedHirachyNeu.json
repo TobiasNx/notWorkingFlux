@@ -1,0 +1,15 @@
+{
+  "author" : [ {
+    "@type" : "Person",
+    "name" : "Katja Königstein-Lüdersdorff"
+  }, {
+    "@type" : "Person",
+    "name" : "Corinna Peters"
+  }, {
+    "@type" : "Person",
+    "name" : "Oleg Tjulenev"
+  }, {
+    "@type" : "Person",
+    "name" : "Claudia Vogeler"
+  } ]
+}
