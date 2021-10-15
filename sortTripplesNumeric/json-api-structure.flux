@@ -13,7 +13,7 @@ apiCall
 | morph(FLUX_DIR + "uniqueFields.xml")
 |	stream-to-triples
 | count-triples(countBy="PREDICATE")
-| sort-triples(By="SUBJECT",numeric=true)
+| sort-triples(By="object",numeric="TRUE",order="DECREASING")
 | template("${o}\t${s}")
 | write("stdout")
 ;
