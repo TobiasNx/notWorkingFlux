@@ -1,0 +1,2 @@
+1{a: Faust, b {n: Goethe, v: JW}, c: Weimar}
+2{a: Räuber, b {n: Schiller, v: F}, c: Weimar}

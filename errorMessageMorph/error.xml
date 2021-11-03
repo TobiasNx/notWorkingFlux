@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metamorph xmlns="http://www.culturegraph.org/metamorph" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	version="1">
+	<rules>
+		<data soure="_id" name="id"/>
+		<data source="a" name="title"/>
+		<combine value="${first} ${last} aus ${place}" name="author">
+			<data source="b.v" name="first" />
+			<data source="b.n" name="last" />
+			<data source="c" name="place" />
+		</combine>
+	</rules>
+</metamorph>
