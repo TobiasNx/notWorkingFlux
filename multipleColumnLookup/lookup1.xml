@@ -2,7 +2,7 @@
 <metamorph xmlns="http://www.culturegraph.org/metamorph" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	version="1">
 	<maps>
-		<filemap name="animals" files="multipleColumnLookup/animals.tsv" separator="\t" allow_trailing_columns: "true"/>
+		<filemap name="animals" files="multipleColumnLookup/animals.tsv" separator="\t" expectedColumns="-1"/>
 	</maps>
 	<rules>
 		<data source="animal">
