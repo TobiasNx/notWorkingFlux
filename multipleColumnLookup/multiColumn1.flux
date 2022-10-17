@@ -1,4 +1,4 @@
-default infile = FLUX_DIR + "animal.json";
+default infile = FLUX_DIR + "animalStart.json";
 
 
 infile
@@ -7,4 +7,4 @@ infile
 | decode-json
 | morph(FLUX_DIR + "lookup1.xml")
 | encode-json(prettyPrinting="true")
-| write(FLUX_DIR + "animalType.json");
+| write(FLUX_DIR + "animal1.json");
