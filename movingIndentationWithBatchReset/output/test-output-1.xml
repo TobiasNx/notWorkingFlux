@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+		<marc:record>
+			<marc:leader>p</marc:leader>
+			<marc:leader>a</marc:leader>
+			<marc:leader>m</marc:leader>
+			<marc:leader> </marc:leader>
+			<marc:leader>a</marc:leader>
+			<marc:leader> </marc:leader>
+			<marc:leader>c</marc:leader>
+			<marc:leader> </marc:leader>
+			<marc:controlfield tag="001">94685887X</marc:controlfield>
+			<marc:controlfield tag="003">DE-101</marc:controlfield>
+			<marc:controlfield tag="005">20101118212115.0</marc:controlfield>
+			<marc:controlfield tag="007">tu</marc:controlfield>
+			<marc:controlfield tag="008">960215s2005    gw |||||r|||| 00||||ger</marc:controlfield>
+			<marc:datafield tag="015" ind1=" " ind2=" ">
+				<marc:subfield code="a">05,A43,1416</marc:subfield>
+				<marc:subfield code="z">96,N11,0503</marc:subfield>
+				<marc:subfield code="2">dnb</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="016" ind1="7" ind2=" ">
+				<marc:subfield code="2">DE-101</marc:subfield>
+				<marc:subfield code="a">94685887X</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="020" ind1=" " ind2=" ">
+				<marc:subfield code="a">3880426066</marc:subfield>
+				<marc:subfield code="c">geh</marc:subfield>
+				<marc:subfield code="9">3-88042-606-6</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="035" ind1=" " ind2=" ">
+				<marc:subfield code="a">(DE-599)DNB94685887X</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="040" ind1=" " ind2=" ">
+				<marc:subfield code="a">1240</marc:subfield>
+				<marc:subfield code="b">ger</marc:subfield>
+				<marc:subfield code="c">DE-101</marc:subfield>
+				<marc:subfield code="d">9999</marc:subfield>
+				<marc:subfield code="e">rakwb</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="041" ind1=" " ind2=" ">
+				<marc:subfield code="a">ger</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="044" ind1=" " ind2=" ">
+				<marc:subfield code="c">XA-DE</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="084" ind1=" " ind2=" ">
+				<marc:subfield code="a">720</marc:subfield>
+				<marc:subfield code="a">060</marc:subfield>
+				<marc:subfield code="2">sdnb</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="090" ind1=" " ind2=" ">
+				<marc:subfield code="a">b</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="245" ind1="1" ind2="0">
+				<marc:subfield code="a">Ostenfelder Bauernhaus</marc:subfield>
+				<marc:subfield code="b">Deutschlands a§�ltestes Freilichtmuseum in Husum</marc:subfield>
+				<marc:subfield code="c">Konrad Grunsky</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="260" ind1="3" ind2=" ">
+				<marc:subfield code="a">Husum</marc:subfield>
+				<marc:subfield code="b">Husum</marc:subfield>
+				<marc:subfield code="c">2005</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="300" ind1=" " ind2=" ">
+				<marc:subfield code="a">48 S.</marc:subfield>
+				<marc:subfield code="b">Ill.</marc:subfield>
+				<marc:subfield code="c">21 cm</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="490" ind1="1" ind2=" ">
+				<marc:subfield code="a">Schriften des Nordfriesischen Museums Nissenhaus, Husum</marc:subfield>
+				<marc:subfield code="v">Nr. 65</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="610" ind1="1" ind2="7">
+				<marc:subfield code="0">(DE-588c)4841760-9</marc:subfield>
+				<marc:subfield code="0">(DE-101)976331292</marc:subfield>
+				<marc:subfield code="2">swd</marc:subfield>
+				<marc:subfield code="a">Husum &lt;Nordfriesland&gt;</marc:subfield>
+				<marc:subfield code="b">Ostenfelder Bauernhaus</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="655" ind1=" " ind2="7">
+				<marc:subfield code="2">swd</marc:subfield>
+				<marc:subfield code="a">Fu§�hrer</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="689" ind1="0" ind2="0">
+				<marc:subfield code="A">c</marc:subfield>
+				<marc:subfield code="0">(DE-588c)4841760-9</marc:subfield>
+				<marc:subfield code="0">(DE-101)976331292</marc:subfield>
+				<marc:subfield code="a">Husum &lt;Nordfriesland&gt;</marc:subfield>
+				<marc:subfield code="b">Ostenfelder Bauernhaus</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="689" ind1="0" ind2="1">
+				<marc:subfield code="A">f</marc:subfield>
+				<marc:subfield code="a">Fu§�hrer</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="689" ind1="0" ind2=" ">
+				<marc:subfield code="5">DE-101</marc:subfield>
+				<marc:subfield code="5">DE-101</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="700" ind1="1" ind2=" ">
+				<marc:subfield code="a">Grunsky, Konrad</marc:subfield>
+				<marc:subfield code="4">cre</marc:subfield>
+				<marc:subfield code="0">(DE-588a)109003209</marc:subfield>
+				<marc:subfield code="0">(DE-101)109003209</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="810" ind1="2" ind2=" ">
+				<marc:subfield code="a">Nissenhaus &lt;Husum, Nordfriesland&gt;</marc:subfield>
+				<marc:subfield code="4">aut</marc:subfield>
+				<marc:subfield code="t">Schriften des Nordfriesischen Museums Ludwig-Nissenhaus, Husum</marc:subfield>
+				<marc:subfield code="v">Nr. 65</marc:subfield>
+				<marc:subfield code="w">(DE-101)016002806</marc:subfield>
+				<marc:subfield code="w">(DE-600)1069033-5</marc:subfield>
+				<marc:subfield code="9">265</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="856" ind1="4" ind2="2">
+				<marc:subfield code="m">V:DE-604</marc:subfield>
+				<marc:subfield code="q">application/pdf</marc:subfield>
+				<marc:subfield code="u">http://d-nb.info/94685887X/04</marc:subfield>
+				<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+			</marc:datafield>
+			<marc:datafield tag="925" ind1="r" ind2=" ">
+				<marc:subfield code="a">ra</marc:subfield>
+			</marc:datafield>
+		</marc:record>
+
+</marc:collection>

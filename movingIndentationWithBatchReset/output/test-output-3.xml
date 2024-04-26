@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+				<marc:record>
+					<marc:leader>p</marc:leader>
+					<marc:leader>a</marc:leader>
+					<marc:leader>m</marc:leader>
+					<marc:leader> </marc:leader>
+					<marc:leader>a</marc:leader>
+					<marc:leader> </marc:leader>
+					<marc:leader>c</marc:leader>
+					<marc:leader> </marc:leader>
+					<marc:controlfield tag="001">948469390</marc:controlfield>
+					<marc:controlfield tag="003">DE-101</marc:controlfield>
+					<marc:controlfield tag="005">20050503235007.0</marc:controlfield>
+					<marc:controlfield tag="007">tu</marc:controlfield>
+					<marc:controlfield tag="008">960827s1997    gw |||||r|||| 00||||ger</marc:controlfield>
+					<marc:datafield tag="015" ind1=" " ind2=" ">
+						<marc:subfield code="a">05,A20,1933</marc:subfield>
+						<marc:subfield code="z">96,N38,0638</marc:subfield>
+						<marc:subfield code="2">dnb</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="016" ind1="7" ind2=" ">
+						<marc:subfield code="2">DE-101</marc:subfield>
+						<marc:subfield code="a">948469390</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="020" ind1=" " ind2=" ">
+						<marc:subfield code="a">3929207478</marc:subfield>
+						<marc:subfield code="c">Gewebe : DM 34.80</marc:subfield>
+						<marc:subfield code="9">3-929207-47-8</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="035" ind1=" " ind2=" ">
+						<marc:subfield code="a">(DE-599)DNB948469390</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="040" ind1=" " ind2=" ">
+						<marc:subfield code="a">1140</marc:subfield>
+						<marc:subfield code="b">ger</marc:subfield>
+						<marc:subfield code="c">DE-101</marc:subfield>
+						<marc:subfield code="d">9999</marc:subfield>
+						<marc:subfield code="e">rakwb</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="041" ind1=" " ind2=" ">
+						<marc:subfield code="a">ger</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="044" ind1=" " ind2=" ">
+						<marc:subfield code="c">XA-DE</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="084" ind1=" " ind2=" ">
+						<marc:subfield code="a">830</marc:subfield>
+						<marc:subfield code="a">B</marc:subfield>
+						<marc:subfield code="2">sdnb</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="090" ind1=" " ind2=" ">
+						<marc:subfield code="a">b</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="100" ind1="1" ind2=" ">
+						<marc:subfield code="a">Burning, Michael</marc:subfield>
+						<marc:subfield code="4">aut</marc:subfield>
+						<marc:subfield code="0">(DE-588a)115185437</marc:subfield>
+						<marc:subfield code="0">(DE-101)115185437</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="245" ind1="1" ind2="0">
+						<marc:subfield code="a">Deathlock</marc:subfield>
+						<marc:subfield code="b">= Todespunkt</marc:subfield>
+						<marc:subfield code="c">Michael Burning</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="260" ind1="3" ind2=" ">
+						<marc:subfield code="a">Mu§�nster/Westf.</marc:subfield>
+						<marc:subfield code="b">Tebbert</marc:subfield>
+						<marc:subfield code="c">1997</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="300" ind1=" " ind2=" ">
+						<marc:subfield code="a">264 S.</marc:subfield>
+						<marc:subfield code="c">21 cm</marc:subfield>
+					</marc:datafield>
+					<marc:datafield tag="925" ind1="r" ind2=" ">
+						<marc:subfield code="a">ra</marc:subfield>
+					</marc:datafield>
+				</marc:record>
+
+</marc:collection>

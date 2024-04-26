@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+			<marc:record>
+				<marc:leader>p</marc:leader>
+				<marc:leader>a</marc:leader>
+				<marc:leader>m</marc:leader>
+				<marc:leader> </marc:leader>
+				<marc:leader>a</marc:leader>
+				<marc:leader> </marc:leader>
+				<marc:leader>c</marc:leader>
+				<marc:leader> </marc:leader>
+				<marc:controlfield tag="001">947459928</marc:controlfield>
+				<marc:controlfield tag="003">DE-101</marc:controlfield>
+				<marc:controlfield tag="005">20070430100559.0</marc:controlfield>
+				<marc:controlfield tag="007">tu</marc:controlfield>
+				<marc:controlfield tag="008">960426s1996    gw |||||r|||| 00||||ger</marc:controlfield>
+				<marc:datafield tag="015" ind1=" " ind2=" ">
+					<marc:subfield code="a">05,A08,0528</marc:subfield>
+					<marc:subfield code="z">96,N21,0180</marc:subfield>
+					<marc:subfield code="2">dnb</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="016" ind1="7" ind2=" ">
+					<marc:subfield code="2">DE-101</marc:subfield>
+					<marc:subfield code="a">947459928</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="020" ind1=" " ind2=" ">
+					<marc:subfield code="a">3814550080</marc:subfield>
+					<marc:subfield code="c">Pp. : DM 168.00</marc:subfield>
+					<marc:subfield code="9">3-8145-5008-0</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="035" ind1=" " ind2=" ">
+					<marc:subfield code="a">(DE-599)DNB947459928</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="040" ind1=" " ind2=" ">
+					<marc:subfield code="a">1140</marc:subfield>
+					<marc:subfield code="b">ger</marc:subfield>
+					<marc:subfield code="c">DE-101</marc:subfield>
+					<marc:subfield code="d">9999</marc:subfield>
+					<marc:subfield code="e">rakwb</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="041" ind1=" " ind2=" ">
+					<marc:subfield code="a">ger</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="044" ind1=" " ind2=" ">
+					<marc:subfield code="c">XA-DE</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="084" ind1=" " ind2=" ">
+					<marc:subfield code="a">340</marc:subfield>
+					<marc:subfield code="2">sdnb</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="245" ind1="1" ind2="0">
+					<marc:subfield code="a">Gesellschaftsrecht 1995</marc:subfield>
+					<marc:subfield code="c">hrsg. von Hartwig Henze ...</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="260" ind1="3" ind2=" ">
+					<marc:subfield code="a">Ko§�ln</marc:subfield>
+					<marc:subfield code="b">RWS, Verl. Kommunikationsforum</marc:subfield>
+					<marc:subfield code="c">1996</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="300" ind1=" " ind2=" ">
+					<marc:subfield code="a">VIII, 320 S.</marc:subfield>
+					<marc:subfield code="c">22 cm</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="490" ind1="1" ind2=" ">
+					<marc:subfield code="a">RWS-Forum</marc:subfield>
+					<marc:subfield code="v">8</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="650" ind1=" " ind2="7">
+					<marc:subfield code="0">(DE-588c)4020646-4</marc:subfield>
+					<marc:subfield code="0">(DE-101)040206467</marc:subfield>
+					<marc:subfield code="2">swd</marc:subfield>
+					<marc:subfield code="a">Gesellschaftsrecht</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="651" ind1=" " ind2="7">
+					<marc:subfield code="0">(DE-588c)4011882-4</marc:subfield>
+					<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+					<marc:subfield code="2">swd</marc:subfield>
+					<marc:subfield code="a">Deutschland</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="655" ind1=" " ind2="7">
+					<marc:subfield code="2">swd</marc:subfield>
+					<marc:subfield code="a">Kongress</marc:subfield>
+					<marc:subfield code="z">Ko§�ln &lt;1995&gt;</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="689" ind1="0" ind2="0">
+					<marc:subfield code="A">g</marc:subfield>
+					<marc:subfield code="0">(DE-588c)4011882-4</marc:subfield>
+					<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+					<marc:subfield code="a">Deutschland</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="689" ind1="0" ind2="1">
+					<marc:subfield code="A">s</marc:subfield>
+					<marc:subfield code="0">(DE-588c)4020646-4</marc:subfield>
+					<marc:subfield code="0">(DE-101)040206467</marc:subfield>
+					<marc:subfield code="a">Gesellschaftsrecht</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="689" ind1="0" ind2="2">
+					<marc:subfield code="A">f</marc:subfield>
+					<marc:subfield code="a">Kongress</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="689" ind1="0" ind2="3">
+					<marc:subfield code="A">g</marc:subfield>
+					<marc:subfield code="a">Ko§�ln &lt;1995&gt;</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="689" ind1="0" ind2=" ">
+					<marc:subfield code="5">DE-101</marc:subfield>
+					<marc:subfield code="5">DE-101</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="700" ind1="1" ind2=" ">
+					<marc:subfield code="a">Henze, Hartwig</marc:subfield>
+					<marc:subfield code="4">edt</marc:subfield>
+					<marc:subfield code="e">Hrsg.</marc:subfield>
+					<marc:subfield code="0">(DE-588a)106867237</marc:subfield>
+					<marc:subfield code="0">(DE-101)106867237</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="830" ind1=" " ind2="0">
+					<marc:subfield code="a">RWS-Forum</marc:subfield>
+					<marc:subfield code="v">8</marc:subfield>
+					<marc:subfield code="w">(DE-101)018447201</marc:subfield>
+					<marc:subfield code="w">(DE-600)1342722-2</marc:subfield>
+					<marc:subfield code="9">18</marc:subfield>
+				</marc:datafield>
+				<marc:datafield tag="925" ind1="r" ind2=" ">
+					<marc:subfield code="a">ra</marc:subfield>
+				</marc:datafield>
+			</marc:record>
+
+</marc:collection>
