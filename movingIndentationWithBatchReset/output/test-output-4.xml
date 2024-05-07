@@ -1,148 +1,148 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-					<marc:record>
-						<marc:leader>p</marc:leader>
-						<marc:leader>a</marc:leader>
-						<marc:leader>m</marc:leader>
-						<marc:leader> </marc:leader>
-						<marc:leader>a</marc:leader>
-						<marc:leader> </marc:leader>
-						<marc:leader>c</marc:leader>
-						<marc:leader> </marc:leader>
-						<marc:controlfield tag="001">950561274</marc:controlfield>
-						<marc:controlfield tag="003">DE-101</marc:controlfield>
-						<marc:controlfield tag="005">20101118201933.0</marc:controlfield>
-						<marc:controlfield tag="007">tu</marc:controlfield>
-						<marc:controlfield tag="008">970602s2005    gw |||||r|||| 00||||ger</marc:controlfield>
-						<marc:datafield tag="015" ind1=" " ind2=" ">
-							<marc:subfield code="a">05,A36,0756</marc:subfield>
-							<marc:subfield code="z">97,N32,0456</marc:subfield>
-							<marc:subfield code="2">dnb</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="016" ind1="7" ind2=" ">
-							<marc:subfield code="2">DE-101</marc:subfield>
-							<marc:subfield code="a">950561274</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="020" ind1=" " ind2=" ">
-							<marc:subfield code="a">3894328835</marc:subfield>
-							<marc:subfield code="c">kart. : sfr 39.90</marc:subfield>
-							<marc:subfield code="9">3-89432-883-5</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="035" ind1=" " ind2=" ">
-							<marc:subfield code="a">(DE-599)DNB950561274</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="040" ind1=" " ind2=" ">
-							<marc:subfield code="a">1140</marc:subfield>
-							<marc:subfield code="b">ger</marc:subfield>
-							<marc:subfield code="c">DE-101</marc:subfield>
-							<marc:subfield code="d">9999</marc:subfield>
-							<marc:subfield code="e">rakwb</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="041" ind1=" " ind2=" ">
-							<marc:subfield code="a">ger</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="044" ind1=" " ind2=" ">
-							<marc:subfield code="c">XA-DE</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="084" ind1=" " ind2=" ">
-							<marc:subfield code="a">590</marc:subfield>
-							<marc:subfield code="2">sdnb</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="090" ind1=" " ind2=" ">
-							<marc:subfield code="a">b</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="245" ind1="1" ind2="0">
-							<marc:subfield code="a">Die Prachtlibellen Europas</marc:subfield>
-							<marc:subfield code="b">Gattung Calopteryx</marc:subfield>
-							<marc:subfield code="c">Georg Ru§�ppell ...</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="250" ind1=" " ind2=" ">
-							<marc:subfield code="a">1. Aufl.</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="259" ind1=" " ind2=" ">
-							<marc:subfield code="a">11</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="260" ind1="3" ind2=" ">
-							<marc:subfield code="a">Hohenwarsleben</marc:subfield>
-							<marc:subfield code="b">Westarp-Wiss.</marc:subfield>
-							<marc:subfield code="c">2005</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="300" ind1=" " ind2=" ">
-							<marc:subfield code="a">255 S.</marc:subfield>
-							<marc:subfield code="b">Ill., graph. Darst., Kt.</marc:subfield>
-							<marc:subfield code="c">21 cm</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="490" ind1="1" ind2=" ">
-							<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
-							<marc:subfield code="v">Bd. 654</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="490" ind1="1" ind2=" ">
-							<marc:subfield code="a">Die neue Brehm-Bu§�cherei : Die @Libellen Europas</marc:subfield>
-							<marc:subfield code="v">Bd. 4</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="500" ind1=" " ind2=" ">
-							<marc:subfield code="a">Literaturverz. S. 237 - 251</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="650" ind1=" " ind2="7">
-							<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
-							<marc:subfield code="0">(DE-101)971322422</marc:subfield>
-							<marc:subfield code="2">swd</marc:subfield>
-							<marc:subfield code="a">Prachtlibelle</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="651" ind1=" " ind2="7">
-							<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
-							<marc:subfield code="0">(DE-101)040157016</marc:subfield>
-							<marc:subfield code="2">swd</marc:subfield>
-							<marc:subfield code="a">Europa</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="689" ind1="0" ind2="0">
-							<marc:subfield code="A">g</marc:subfield>
-							<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
-							<marc:subfield code="0">(DE-101)040157016</marc:subfield>
-							<marc:subfield code="a">Europa</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="689" ind1="0" ind2="1">
-							<marc:subfield code="A">s</marc:subfield>
-							<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
-							<marc:subfield code="0">(DE-101)971322422</marc:subfield>
-							<marc:subfield code="a">Prachtlibelle</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="689" ind1="0" ind2=" ">
-							<marc:subfield code="5">DE-101</marc:subfield>
-							<marc:subfield code="5">DE-101</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="700" ind1="1" ind2=" ">
-							<marc:subfield code="a">Ru§�ppell, Georg</marc:subfield>
-							<marc:subfield code="4">cre</marc:subfield>
-							<marc:subfield code="d">1940-</marc:subfield>
-							<marc:subfield code="0">(DE-588a)106979205</marc:subfield>
-							<marc:subfield code="0">(DE-101)106979205</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="830" ind1=" " ind2="0">
-							<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
-							<marc:subfield code="v">Bd. 654</marc:subfield>
-							<marc:subfield code="w">(DE-101)010148280</marc:subfield>
-							<marc:subfield code="w">(DE-600)963890-8</marc:subfield>
-							<marc:subfield code="9">3654</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="830" ind1=" " ind2="0">
-							<marc:subfield code="a">Die neue Brehm-Bu§�cherei / Die Libellen Europas</marc:subfield>
-							<marc:subfield code="n">Die Libellen Europas</marc:subfield>
-							<marc:subfield code="t">Die neue Brehm-Bu§�cherei</marc:subfield>
-							<marc:subfield code="v">Bd. 4</marc:subfield>
-							<marc:subfield code="w">(DE-101)977932621</marc:subfield>
-							<marc:subfield code="w">(DE-600)2215590-9</marc:subfield>
-							<marc:subfield code="9">14</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="856" ind1="4" ind2="2">
-							<marc:subfield code="m">V:DE-604</marc:subfield>
-							<marc:subfield code="q">application/pdf</marc:subfield>
-							<marc:subfield code="u">http://d-nb.info/950561274/04</marc:subfield>
-							<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
-						</marc:datafield>
-						<marc:datafield tag="925" ind1="r" ind2=" ">
-							<marc:subfield code="a">ra</marc:subfield>
-						</marc:datafield>
-					</marc:record>
+	<marc:record>
+		<marc:leader>p</marc:leader>
+		<marc:leader>a</marc:leader>
+		<marc:leader>m</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:leader>a</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:leader>c</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:controlfield tag="001">950561274</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20101118201933.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">970602s2005    gw |||||r|||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A36,0756</marc:subfield>
+			<marc:subfield code="z">97,N32,0456</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">950561274</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3894328835</marc:subfield>
+			<marc:subfield code="c">kart. : sfr 39.90</marc:subfield>
+			<marc:subfield code="9">3-89432-883-5</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB950561274</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1140</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">590</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Die Prachtlibellen Europas</marc:subfield>
+			<marc:subfield code="b">Gattung Calopteryx</marc:subfield>
+			<marc:subfield code="c">Georg Ru§�ppell ...</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="250" ind1=" " ind2=" ">
+			<marc:subfield code="a">1. Aufl.</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="259" ind1=" " ind2=" ">
+			<marc:subfield code="a">11</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Hohenwarsleben</marc:subfield>
+			<marc:subfield code="b">Westarp-Wiss.</marc:subfield>
+			<marc:subfield code="c">2005</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">255 S.</marc:subfield>
+			<marc:subfield code="b">Ill., graph. Darst., Kt.</marc:subfield>
+			<marc:subfield code="c">21 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 654</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei : Die @Libellen Europas</marc:subfield>
+			<marc:subfield code="v">Bd. 4</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="500" ind1=" " ind2=" ">
+			<marc:subfield code="a">Literaturverz. S. 237 - 251</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)971322422</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Prachtlibelle</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="651" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)040157016</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Europa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">g</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)040157016</marc:subfield>
+			<marc:subfield code="a">Europa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)971322422</marc:subfield>
+			<marc:subfield code="a">Prachtlibelle</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="a">Ru§�ppell, Georg</marc:subfield>
+			<marc:subfield code="4">cre</marc:subfield>
+			<marc:subfield code="d">1940-</marc:subfield>
+			<marc:subfield code="0">(DE-588a)106979205</marc:subfield>
+			<marc:subfield code="0">(DE-101)106979205</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 654</marc:subfield>
+			<marc:subfield code="w">(DE-101)010148280</marc:subfield>
+			<marc:subfield code="w">(DE-600)963890-8</marc:subfield>
+			<marc:subfield code="9">3654</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei / Die Libellen Europas</marc:subfield>
+			<marc:subfield code="n">Die Libellen Europas</marc:subfield>
+			<marc:subfield code="t">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 4</marc:subfield>
+			<marc:subfield code="w">(DE-101)977932621</marc:subfield>
+			<marc:subfield code="w">(DE-600)2215590-9</marc:subfield>
+			<marc:subfield code="9">14</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="856" ind1="4" ind2="2">
+			<marc:subfield code="m">V:DE-604</marc:subfield>
+			<marc:subfield code="q">application/pdf</marc:subfield>
+			<marc:subfield code="u">http://d-nb.info/950561274/04</marc:subfield>
+			<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+	</marc:record>
 
 </marc:collection>

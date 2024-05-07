@@ -1,118 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
-							<marc:record>
-								<marc:leader>p</marc:leader>
-								<marc:leader>a</marc:leader>
-								<marc:leader>m</marc:leader>
-								<marc:leader> </marc:leader>
-								<marc:leader>a</marc:leader>
-								<marc:leader> </marc:leader>
-								<marc:leader>c</marc:leader>
-								<marc:leader> </marc:leader>
-								<marc:controlfield tag="001">950974439</marc:controlfield>
-								<marc:controlfield tag="003">DE-101</marc:controlfield>
-								<marc:controlfield tag="005">20101118201935.0</marc:controlfield>
-								<marc:controlfield tag="007">tu</marc:controlfield>
-								<marc:controlfield tag="008">970717s1997    gw |||||r|||| 00||||ita</marc:controlfield>
-								<marc:datafield tag="015" ind1=" " ind2=" ">
-									<marc:subfield code="a">05,A28,0679</marc:subfield>
-									<marc:subfield code="z">97,N33,0689</marc:subfield>
-									<marc:subfield code="2">dnb</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="016" ind1="7" ind2=" ">
-									<marc:subfield code="2">DE-101</marc:subfield>
-									<marc:subfield code="a">950974439</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="020" ind1=" " ind2=" ">
-									<marc:subfield code="a">3895862193</marc:subfield>
-									<marc:subfield code="c">kart.</marc:subfield>
-									<marc:subfield code="9">3-89586-219-3</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="035" ind1=" " ind2=" ">
-									<marc:subfield code="a">(DE-599)DNB950974439</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="040" ind1=" " ind2=" ">
-									<marc:subfield code="a">1240</marc:subfield>
-									<marc:subfield code="b">ger</marc:subfield>
-									<marc:subfield code="c">DE-101</marc:subfield>
-									<marc:subfield code="d">9999</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="041" ind1=" " ind2=" ">
-									<marc:subfield code="a">ita</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="044" ind1=" " ind2=" ">
-									<marc:subfield code="c">XA-DE</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="084" ind1=" " ind2=" ">
-									<marc:subfield code="a">450</marc:subfield>
-									<marc:subfield code="2">sdnb</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="090" ind1=" " ind2=" ">
-									<marc:subfield code="a">b</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="100" ind1="1" ind2=" ">
-									<marc:subfield code="a">Bigalke, Rainer</marc:subfield>
-									<marc:subfield code="4">aut</marc:subfield>
-									<marc:subfield code="0">(DE-588a)108628248</marc:subfield>
-									<marc:subfield code="0">(DE-101)108628248</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="245" ind1="1" ind2="0">
-									<marc:subfield code="a">Siciliano</marc:subfield>
-									<marc:subfield code="c">Rainer Bigalke. [Ed. by U. J. Lu§�ders]</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="260" ind1="3" ind2=" ">
-									<marc:subfield code="a">Mu§�nchen</marc:subfield>
-									<marc:subfield code="a">Newcastle</marc:subfield>
-									<marc:subfield code="b">LINCOM Europa</marc:subfield>
-									<marc:subfield code="c">1997</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="300" ind1=" " ind2=" ">
-									<marc:subfield code="a">102 S.</marc:subfield>
-									<marc:subfield code="b">Kt.</marc:subfield>
-									<marc:subfield code="c">21 cm</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="490" ind1="1" ind2=" ">
-									<marc:subfield code="a">Languages of the world : [...], Materials</marc:subfield>
-									<marc:subfield code="v">129</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="500" ind1=" " ind2=" ">
-									<marc:subfield code="a">Literaturverz. S. 96 - 102</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="651" ind1=" " ind2="7">
-									<marc:subfield code="0">(DE-588c)4181612-2</marc:subfield>
-									<marc:subfield code="0">(DE-101)041816129</marc:subfield>
-									<marc:subfield code="2">swd</marc:subfield>
-									<marc:subfield code="a">Sizilianisch</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="689" ind1="0" ind2="0">
-									<marc:subfield code="A">g</marc:subfield>
-									<marc:subfield code="0">(DE-588c)4181612-2</marc:subfield>
-									<marc:subfield code="0">(DE-101)041816129</marc:subfield>
-									<marc:subfield code="a">Sizilianisch</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="689" ind1="0" ind2=" ">
-									<marc:subfield code="5">DE-101</marc:subfield>
-									<marc:subfield code="5">DE-101</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="830" ind1=" " ind2="0">
-									<marc:subfield code="a">Languages of the world / Materials</marc:subfield>
-									<marc:subfield code="n">[...]</marc:subfield>
-									<marc:subfield code="p">Materials</marc:subfield>
-									<marc:subfield code="t">Languages of the world</marc:subfield>
-									<marc:subfield code="v">129</marc:subfield>
-									<marc:subfield code="w">(DE-101)019448880</marc:subfield>
-									<marc:subfield code="w">(DE-600)1451298-1</marc:subfield>
-									<marc:subfield code="9">3129</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="856" ind1="4" ind2="2">
-									<marc:subfield code="m">V:DE-604</marc:subfield>
-									<marc:subfield code="q">application/pdf</marc:subfield>
-									<marc:subfield code="u">http://d-nb.info/950974439/04</marc:subfield>
-									<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
-								</marc:datafield>
-								<marc:datafield tag="925" ind1="r" ind2=" ">
-									<marc:subfield code="a">ra</marc:subfield>
-								</marc:datafield>
-							</marc:record>
+	<marc:record>
+		<marc:leader>p</marc:leader>
+		<marc:leader>a</marc:leader>
+		<marc:leader>m</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:leader>a</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:leader>c</marc:leader>
+		<marc:leader> </marc:leader>
+		<marc:controlfield tag="001">950974439</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20101118201935.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">970717s1997    gw |||||r|||| 00||||ita</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A28,0679</marc:subfield>
+			<marc:subfield code="z">97,N33,0689</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">950974439</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3895862193</marc:subfield>
+			<marc:subfield code="c">kart.</marc:subfield>
+			<marc:subfield code="9">3-89586-219-3</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB950974439</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1240</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ita</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">450</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="100" ind1="1" ind2=" ">
+			<marc:subfield code="a">Bigalke, Rainer</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="0">(DE-588a)108628248</marc:subfield>
+			<marc:subfield code="0">(DE-101)108628248</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Siciliano</marc:subfield>
+			<marc:subfield code="c">Rainer Bigalke. [Ed. by U. J. Lu§�ders]</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Mu§�nchen</marc:subfield>
+			<marc:subfield code="a">Newcastle</marc:subfield>
+			<marc:subfield code="b">LINCOM Europa</marc:subfield>
+			<marc:subfield code="c">1997</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">102 S.</marc:subfield>
+			<marc:subfield code="b">Kt.</marc:subfield>
+			<marc:subfield code="c">21 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Languages of the world : [...], Materials</marc:subfield>
+			<marc:subfield code="v">129</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="500" ind1=" " ind2=" ">
+			<marc:subfield code="a">Literaturverz. S. 96 - 102</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="651" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4181612-2</marc:subfield>
+			<marc:subfield code="0">(DE-101)041816129</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Sizilianisch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">g</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4181612-2</marc:subfield>
+			<marc:subfield code="0">(DE-101)041816129</marc:subfield>
+			<marc:subfield code="a">Sizilianisch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Languages of the world / Materials</marc:subfield>
+			<marc:subfield code="n">[...]</marc:subfield>
+			<marc:subfield code="p">Materials</marc:subfield>
+			<marc:subfield code="t">Languages of the world</marc:subfield>
+			<marc:subfield code="v">129</marc:subfield>
+			<marc:subfield code="w">(DE-101)019448880</marc:subfield>
+			<marc:subfield code="w">(DE-600)1451298-1</marc:subfield>
+			<marc:subfield code="9">3129</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="856" ind1="4" ind2="2">
+			<marc:subfield code="m">V:DE-604</marc:subfield>
+			<marc:subfield code="q">application/pdf</marc:subfield>
+			<marc:subfield code="u">http://d-nb.info/950974439/04</marc:subfield>
+			<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+	</marc:record>
 
 </marc:collection>
