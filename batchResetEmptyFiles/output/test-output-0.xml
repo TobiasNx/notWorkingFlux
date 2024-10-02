@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 	<marc:record>
-<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">946638705</marc:controlfield>
+		<marc:leader>pam a c </marc:leader>
+		<marc:controlfield tag="001">946638705</marc:controlfield>
 		<marc:controlfield tag="003">DE-101</marc:controlfield>
 		<marc:controlfield tag="005">20070429135622.0</marc:controlfield>
 		<marc:controlfield tag="007">tu</marc:controlfield>
@@ -210,11 +211,11 @@
 		<marc:datafield tag="925" ind1="r" ind2=" ">
 			<marc:subfield code="a">ra</marc:subfield>
 		</marc:datafield>
-		
 	</marc:record>
 
 	<marc:record>
-<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">94685887X</marc:controlfield>
+		<marc:leader>pam a c </marc:leader>
+		<marc:controlfield tag="001">94685887X</marc:controlfield>
 		<marc:controlfield tag="003">DE-101</marc:controlfield>
 		<marc:controlfield tag="005">20101118212115.0</marc:controlfield>
 		<marc:controlfield tag="007">tu</marc:controlfield>
@@ -326,11 +327,11 @@
 		<marc:datafield tag="925" ind1="r" ind2=" ">
 			<marc:subfield code="a">ra</marc:subfield>
 		</marc:datafield>
-		
 	</marc:record>
 
 	<marc:record>
-<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">947459928</marc:controlfield>
+		<marc:leader>pam a c </marc:leader>
+		<marc:controlfield tag="001">947459928</marc:controlfield>
 		<marc:controlfield tag="003">DE-101</marc:controlfield>
 		<marc:controlfield tag="005">20070430100559.0</marc:controlfield>
 		<marc:controlfield tag="007">tu</marc:controlfield>
@@ -444,11 +445,11 @@
 		<marc:datafield tag="925" ind1="r" ind2=" ">
 			<marc:subfield code="a">ra</marc:subfield>
 		</marc:datafield>
-		
 	</marc:record>
 
 	<marc:record>
-<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">948469390</marc:controlfield>
+		<marc:leader>pam a c </marc:leader>
+		<marc:controlfield tag="001">948469390</marc:controlfield>
 		<marc:controlfield tag="003">DE-101</marc:controlfield>
 		<marc:controlfield tag="005">20050503235007.0</marc:controlfield>
 		<marc:controlfield tag="007">tu</marc:controlfield>
@@ -514,11 +515,11 @@
 		<marc:datafield tag="925" ind1="r" ind2=" ">
 			<marc:subfield code="a">ra</marc:subfield>
 		</marc:datafield>
-		
 	</marc:record>
 
 	<marc:record>
-<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">950561274</marc:controlfield>
+		<marc:leader>pam a c </marc:leader>
+		<marc:controlfield tag="001">950561274</marc:controlfield>
 		<marc:controlfield tag="003">DE-101</marc:controlfield>
 		<marc:controlfield tag="005">20101118201933.0</marc:controlfield>
 		<marc:controlfield tag="007">tu</marc:controlfield>
@@ -652,7 +653,6 @@
 		<marc:datafield tag="925" ind1="r" ind2=" ">
 			<marc:subfield code="a">ra</marc:subfield>
 		</marc:datafield>
-		
 	</marc:record>
 
 </marc:collection>
