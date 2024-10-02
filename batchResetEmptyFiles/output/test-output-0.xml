@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:record>
+<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">946638705</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20070429135622.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">960123s2004    gw |||||r|||| 00||||eng</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A03,2104</marc:subfield>
+			<marc:subfield code="z">96,N47,0454</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">946638705</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">0820431125</marc:subfield>
+			<marc:subfield code="c">Pp. : EUR 56.70, sfr 83.00</marc:subfield>
+			<marc:subfield code="9">0-8204-3112-5</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB946638705</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1140</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">eng</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">820</marc:subfield>
+			<marc:subfield code="a">890</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="100" ind1="1" ind2=" ">
+			<marc:subfield code="a">Kim, Soonsik</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="0">(DE-588a)11515454X</marc:subfield>
+			<marc:subfield code="0">(DE-101)11515454X</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Colonial and post-colonial discourse in the novels of Yo§am Sang-So§ap, Chinua Achebe and Salman Rushdie</marc:subfield>
+			<marc:subfield code="c">Soonsik Kim</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">New York</marc:subfield>
+			<marc:subfield code="a">Washington, D.C./Baltimore</marc:subfield>
+			<marc:subfield code="a">Bern</marc:subfield>
+			<marc:subfield code="a">Frankfurt am Main</marc:subfield>
+			<marc:subfield code="a">Berlin</marc:subfield>
+			<marc:subfield code="a">Brussels</marc:subfield>
+			<marc:subfield code="a">Vienna</marc:subfield>
+			<marc:subfield code="a">Oxford</marc:subfield>
+			<marc:subfield code="b">Lang</marc:subfield>
+			<marc:subfield code="c">2004</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">VI, 214 S.</marc:subfield>
+			<marc:subfield code="c">24 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Comparative cultures and literatures</marc:subfield>
+			<marc:subfield code="v">Vol. 94201 Literaturverz. S. 197 - 207</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="600" ind1="1" ind2="7">
+			<marc:subfield code="0">(DE-588c)4806527-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)129612111</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Yo§am, Sang-so§ap</marc:subfield>
+			<marc:subfield code="d">1897-1963</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="600" ind1="1" ind2="7">
+			<marc:subfield code="0">(DE-588c)4084672-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)118646680</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Achebe, Chinua</marc:subfield>
+			<marc:subfield code="d">1930-</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="600" ind1="1" ind2="7">
+			<marc:subfield code="0">(DE-588c)4217069-2</marc:subfield>
+			<marc:subfield code="0">(DE-101)118873520</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Rushdie, Salman</marc:subfield>
+			<marc:subfield code="d">1947-</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">p</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4806527-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)129612111</marc:subfield>
+			<marc:subfield code="a">Yo§am, Sang-so§ap</marc:subfield>
+			<marc:subfield code="d">1897-1963</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="A">p</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4084672-6</marc:subfield>
+			<marc:subfield code="0">(DE-101)118646680</marc:subfield>
+			<marc:subfield code="a">Achebe, Chinua</marc:subfield>
+			<marc:subfield code="d">1930-</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="2">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="0">
+			<marc:subfield code="A">p</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4217069-2</marc:subfield>
+			<marc:subfield code="0">(DE-101)118873520</marc:subfield>
+			<marc:subfield code="a">Rushdie, Salman</marc:subfield>
+			<marc:subfield code="d">1947-</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4050479-7</marc:subfield>
+			<marc:subfield code="0">(DE-101)040504794</marc:subfield>
+			<marc:subfield code="a">Roman</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="2">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4681702-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)964233509</marc:subfield>
+			<marc:subfield code="a">Postkolonialismus &lt;Motiv&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Comparative cultures and literatures</marc:subfield>
+			<marc:subfield code="v">Vol. 94201 Literaturverz. S. 197 - 207</marc:subfield>
+			<marc:subfield code="w">(DE-101)025300458</marc:subfield>
+			<marc:subfield code="w">(DE-600)2126467-3</marc:subfield>
+			<marc:subfield code="9">19</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		
+	</marc:record>
+
+	<marc:record>
+<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">94685887X</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20101118212115.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">960215s2005    gw |||||r|||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A43,1416</marc:subfield>
+			<marc:subfield code="z">96,N11,0503</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">94685887X</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3880426066</marc:subfield>
+			<marc:subfield code="c">geh</marc:subfield>
+			<marc:subfield code="9">3-88042-606-6</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB94685887X</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1240</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">720</marc:subfield>
+			<marc:subfield code="a">060</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Ostenfelder Bauernhaus</marc:subfield>
+			<marc:subfield code="b">Deutschlands a§�ltestes Freilichtmuseum in Husum</marc:subfield>
+			<marc:subfield code="c">Konrad Grunsky</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Husum</marc:subfield>
+			<marc:subfield code="b">Husum</marc:subfield>
+			<marc:subfield code="c">2005</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">48 S.</marc:subfield>
+			<marc:subfield code="b">Ill.</marc:subfield>
+			<marc:subfield code="c">21 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Schriften des Nordfriesischen Museums Nissenhaus, Husum</marc:subfield>
+			<marc:subfield code="v">Nr. 65</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="610" ind1="1" ind2="7">
+			<marc:subfield code="0">(DE-588c)4841760-9</marc:subfield>
+			<marc:subfield code="0">(DE-101)976331292</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Husum &lt;Nordfriesland&gt;</marc:subfield>
+			<marc:subfield code="b">Ostenfelder Bauernhaus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="655" ind1=" " ind2="7">
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Fu§�hrer</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">c</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4841760-9</marc:subfield>
+			<marc:subfield code="0">(DE-101)976331292</marc:subfield>
+			<marc:subfield code="a">Husum &lt;Nordfriesland&gt;</marc:subfield>
+			<marc:subfield code="b">Ostenfelder Bauernhaus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="a">Fu§�hrer</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="a">Grunsky, Konrad</marc:subfield>
+			<marc:subfield code="4">cre</marc:subfield>
+			<marc:subfield code="0">(DE-588a)109003209</marc:subfield>
+			<marc:subfield code="0">(DE-101)109003209</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="810" ind1="2" ind2=" ">
+			<marc:subfield code="a">Nissenhaus &lt;Husum, Nordfriesland&gt;</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="t">Schriften des Nordfriesischen Museums Ludwig-Nissenhaus, Husum</marc:subfield>
+			<marc:subfield code="v">Nr. 65</marc:subfield>
+			<marc:subfield code="w">(DE-101)016002806</marc:subfield>
+			<marc:subfield code="w">(DE-600)1069033-5</marc:subfield>
+			<marc:subfield code="9">265</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="856" ind1="4" ind2="2">
+			<marc:subfield code="m">V:DE-604</marc:subfield>
+			<marc:subfield code="q">application/pdf</marc:subfield>
+			<marc:subfield code="u">http://d-nb.info/94685887X/04</marc:subfield>
+			<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		
+	</marc:record>
+
+	<marc:record>
+<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">947459928</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20070430100559.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">960426s1996    gw |||||r|||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A08,0528</marc:subfield>
+			<marc:subfield code="z">96,N21,0180</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">947459928</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3814550080</marc:subfield>
+			<marc:subfield code="c">Pp. : DM 168.00</marc:subfield>
+			<marc:subfield code="9">3-8145-5008-0</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB947459928</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1140</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">340</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Gesellschaftsrecht 1995</marc:subfield>
+			<marc:subfield code="c">hrsg. von Hartwig Henze ...</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Ko§�ln</marc:subfield>
+			<marc:subfield code="b">RWS, Verl. Kommunikationsforum</marc:subfield>
+			<marc:subfield code="c">1996</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">VIII, 320 S.</marc:subfield>
+			<marc:subfield code="c">22 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">RWS-Forum</marc:subfield>
+			<marc:subfield code="v">8</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4020646-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040206467</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Gesellschaftsrecht</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="651" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4011882-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="655" ind1=" " ind2="7">
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Kongress</marc:subfield>
+			<marc:subfield code="z">Ko§�ln &lt;1995&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">g</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4011882-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040118827</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4020646-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)040206467</marc:subfield>
+			<marc:subfield code="a">Gesellschaftsrecht</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="a">Kongress</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="A">g</marc:subfield>
+			<marc:subfield code="a">Ko§�ln &lt;1995&gt;</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="a">Henze, Hartwig</marc:subfield>
+			<marc:subfield code="4">edt</marc:subfield>
+			<marc:subfield code="e">Hrsg.</marc:subfield>
+			<marc:subfield code="0">(DE-588a)106867237</marc:subfield>
+			<marc:subfield code="0">(DE-101)106867237</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">RWS-Forum</marc:subfield>
+			<marc:subfield code="v">8</marc:subfield>
+			<marc:subfield code="w">(DE-101)018447201</marc:subfield>
+			<marc:subfield code="w">(DE-600)1342722-2</marc:subfield>
+			<marc:subfield code="9">18</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		
+	</marc:record>
+
+	<marc:record>
+<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">948469390</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20050503235007.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">960827s1997    gw |||||r|||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A20,1933</marc:subfield>
+			<marc:subfield code="z">96,N38,0638</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">948469390</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3929207478</marc:subfield>
+			<marc:subfield code="c">Gewebe : DM 34.80</marc:subfield>
+			<marc:subfield code="9">3-929207-47-8</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB948469390</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1140</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">830</marc:subfield>
+			<marc:subfield code="a">B</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="100" ind1="1" ind2=" ">
+			<marc:subfield code="a">Burning, Michael</marc:subfield>
+			<marc:subfield code="4">aut</marc:subfield>
+			<marc:subfield code="0">(DE-588a)115185437</marc:subfield>
+			<marc:subfield code="0">(DE-101)115185437</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Deathlock</marc:subfield>
+			<marc:subfield code="b">= Todespunkt</marc:subfield>
+			<marc:subfield code="c">Michael Burning</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Mu§�nster/Westf.</marc:subfield>
+			<marc:subfield code="b">Tebbert</marc:subfield>
+			<marc:subfield code="c">1997</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">264 S.</marc:subfield>
+			<marc:subfield code="c">21 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		
+	</marc:record>
+
+	<marc:record>
+<marc:leader>pam a c </marc:leader>		<marc:controlfield tag="001">950561274</marc:controlfield>
+		<marc:controlfield tag="003">DE-101</marc:controlfield>
+		<marc:controlfield tag="005">20101118201933.0</marc:controlfield>
+		<marc:controlfield tag="007">tu</marc:controlfield>
+		<marc:controlfield tag="008">970602s2005    gw |||||r|||| 00||||ger</marc:controlfield>
+		<marc:datafield tag="015" ind1=" " ind2=" ">
+			<marc:subfield code="a">05,A36,0756</marc:subfield>
+			<marc:subfield code="z">97,N32,0456</marc:subfield>
+			<marc:subfield code="2">dnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="016" ind1="7" ind2=" ">
+			<marc:subfield code="2">DE-101</marc:subfield>
+			<marc:subfield code="a">950561274</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="020" ind1=" " ind2=" ">
+			<marc:subfield code="a">3894328835</marc:subfield>
+			<marc:subfield code="c">kart. : sfr 39.90</marc:subfield>
+			<marc:subfield code="9">3-89432-883-5</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB950561274</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="040" ind1=" " ind2=" ">
+			<marc:subfield code="a">1140</marc:subfield>
+			<marc:subfield code="b">ger</marc:subfield>
+			<marc:subfield code="c">DE-101</marc:subfield>
+			<marc:subfield code="d">9999</marc:subfield>
+			<marc:subfield code="e">rakwb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="041" ind1=" " ind2=" ">
+			<marc:subfield code="a">ger</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="044" ind1=" " ind2=" ">
+			<marc:subfield code="c">XA-DE</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="084" ind1=" " ind2=" ">
+			<marc:subfield code="a">590</marc:subfield>
+			<marc:subfield code="2">sdnb</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="090" ind1=" " ind2=" ">
+			<marc:subfield code="a">b</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="245" ind1="1" ind2="0">
+			<marc:subfield code="a">Die Prachtlibellen Europas</marc:subfield>
+			<marc:subfield code="b">Gattung Calopteryx</marc:subfield>
+			<marc:subfield code="c">Georg Ru§�ppell ...</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="250" ind1=" " ind2=" ">
+			<marc:subfield code="a">1. Aufl.</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="259" ind1=" " ind2=" ">
+			<marc:subfield code="a">11</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="260" ind1="3" ind2=" ">
+			<marc:subfield code="a">Hohenwarsleben</marc:subfield>
+			<marc:subfield code="b">Westarp-Wiss.</marc:subfield>
+			<marc:subfield code="c">2005</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="300" ind1=" " ind2=" ">
+			<marc:subfield code="a">255 S.</marc:subfield>
+			<marc:subfield code="b">Ill., graph. Darst., Kt.</marc:subfield>
+			<marc:subfield code="c">21 cm</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 654</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="490" ind1="1" ind2=" ">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei : Die @Libellen Europas</marc:subfield>
+			<marc:subfield code="v">Bd. 4</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="500" ind1=" " ind2=" ">
+			<marc:subfield code="a">Literaturverz. S. 237 - 251</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="650" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)971322422</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Prachtlibelle</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="651" ind1=" " ind2="7">
+			<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)040157016</marc:subfield>
+			<marc:subfield code="2">swd</marc:subfield>
+			<marc:subfield code="a">Europa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">g</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4015701-5</marc:subfield>
+			<marc:subfield code="0">(DE-101)040157016</marc:subfield>
+			<marc:subfield code="a">Europa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="0">(DE-588c)4781371-4</marc:subfield>
+			<marc:subfield code="0">(DE-101)971322422</marc:subfield>
+			<marc:subfield code="a">Prachtlibelle</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="700" ind1="1" ind2=" ">
+			<marc:subfield code="a">Ru§�ppell, Georg</marc:subfield>
+			<marc:subfield code="4">cre</marc:subfield>
+			<marc:subfield code="d">1940-</marc:subfield>
+			<marc:subfield code="0">(DE-588a)106979205</marc:subfield>
+			<marc:subfield code="0">(DE-101)106979205</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 654</marc:subfield>
+			<marc:subfield code="w">(DE-101)010148280</marc:subfield>
+			<marc:subfield code="w">(DE-600)963890-8</marc:subfield>
+			<marc:subfield code="9">3654</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="830" ind1=" " ind2="0">
+			<marc:subfield code="a">Die neue Brehm-Bu§�cherei / Die Libellen Europas</marc:subfield>
+			<marc:subfield code="n">Die Libellen Europas</marc:subfield>
+			<marc:subfield code="t">Die neue Brehm-Bu§�cherei</marc:subfield>
+			<marc:subfield code="v">Bd. 4</marc:subfield>
+			<marc:subfield code="w">(DE-101)977932621</marc:subfield>
+			<marc:subfield code="w">(DE-600)2215590-9</marc:subfield>
+			<marc:subfield code="9">14</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="856" ind1="4" ind2="2">
+			<marc:subfield code="m">V:DE-604</marc:subfield>
+			<marc:subfield code="q">application/pdf</marc:subfield>
+			<marc:subfield code="u">http://d-nb.info/950561274/04</marc:subfield>
+			<marc:subfield code="3">Inhaltsverzeichnis</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="925" ind1="r" ind2=" ">
+			<marc:subfield code="a">ra</marc:subfield>
+		</marc:datafield>
+		
+	</marc:record>
+
+</marc:collection>
