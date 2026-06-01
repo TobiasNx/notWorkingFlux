@@ -5,6 +5,5 @@ infile|
 open-file|
 decode-xml|
 handle-marcxml|
-morph(FLUX_DIR + "allNested.xml")|
-encode-marcxml(emitNamespace="false")|
-write(FLUX_DIR + "marcOut6.xml");
+encode-marcxml|
+write(FLUX_DIR + "marcOut7.xml");

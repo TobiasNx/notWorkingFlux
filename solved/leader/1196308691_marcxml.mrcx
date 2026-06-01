@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <record xmlns="http://www.loc.gov/MARC21/slim" type="Bibliographic">
+<record>
     <leader>00000pam a2200000 c 4500</leader>
     <controlfield tag="001">1196308691</controlfield>
     <controlfield tag="003">DE-101</controlfield>
